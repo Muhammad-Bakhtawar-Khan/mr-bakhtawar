@@ -1,0 +1,23 @@
+{
+  "name": "Mr. Bakhtawar Portfolio",
+  "short_name": "Bakhtawar",
+  "description": "Bakhtawar Khan \u00b7 Personal Digital Portfolio \u00b7 MBK Global",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#142320",
+  "theme_color": "#142320",
+  "icons": [
+    {
+      "src": "/assets/images/portfolio-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/images/portfolio-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Test,Condition,Status,Evidence/Limit
+1,Every discovered route inventoried,Passed,"107 initial/final entries, source + live + sitemap reconciliation"
+2,Each indexable page has audit,Passed,54 individual 22-criterion audit records
+3,Each applicable page has optimization decision,Passed,All 107 decisions including alias/utility reasons
+4,High-priority issues fixed or explicitly blocked,Passed with blockers,high-priority-issues.csv; local fixes and publication/data gates recorded
+5,Changes have validation status,Passed locally,"Per-page, image and browser records; deployment pending"
+6,Website build,Passed,pnpm build including prerender
+7,Navigation/images/forms continue working,Passed locally,"54 desktop/mobile routes, gallery lightbox/motion and intercepted compose flows; external delivery not claimed"
+8,Metadata/canonicals appropriate,Passed locally,"Unique complete titles/descriptions, consistent graph and canonical sets"
+9,Sitemap uses valid production routes,Passed locally,54 distinct final canonical URLs; source/live sets reconcile
+10,Structured data accurate and nonduplicative,Passed local syntax/entity review,No external rich-result/knowledge-panel validation claimed
+11,Keyword records deduplicated and traceable,Passed with research limits,"191 records: 22 suggestion observations, 169 explicitly unmeasured candidates"
+12,No fabricated metrics/professional claims,Passed for introduced work,Unknown demand metrics blank; unsupported inherited coverage qualified
+13,Unfinished work documented,Passed,"blocked-work.md, roadmap and each partial page decision"
+14,Actual source/reports delivered,Packaged after integrity check,Source + dist + research/implementation/content/reports/tools; no deployment implied

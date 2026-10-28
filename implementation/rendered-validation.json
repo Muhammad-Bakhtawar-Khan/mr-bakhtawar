@@ -1,0 +1,1576 @@
+{
+  "/": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Thoughtful code.Human purpose."
+        ],
+        "title": "Mr Bakhtawar | Bakhtawar Khan Portfolio — MBK Global",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 714
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Thoughtful code.Human purpose."
+        ],
+        "title": "Mr Bakhtawar | Bakhtawar Khan Portfolio — MBK Global",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 273
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "galleryMotion": "Pause control passed",
+    "hydratedSearch": "Passed (10 API results)",
+    "clipboardShare": "Passed; OS native share delivery not tested"
+  },
+  "/about.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "BakhtawarKhan."
+        ],
+        "title": "About Bakhtawar Khan | Mr Bakhtawar & MBK Global",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 238
+      },
+      {
+        "width": 390,
+        "h1": [
+          "BakhtawarKhan."
+        ],
+        "title": "About Bakhtawar Khan | Mr Bakhtawar & MBK Global",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 180
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "darkTheme": "Passed"
+  },
+  "/ai-api-integration.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "AI & API Integration"
+        ],
+        "title": "AI & API Integration Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 142
+      },
+      {
+        "width": 390,
+        "h1": [
+          "AI & API Integration"
+        ],
+        "title": "AI & API Integration Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 132
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/ai-chatbot-development.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "A useful assistant needs more than a prompt."
+        ],
+        "title": "AI Chatbot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 160
+      },
+      {
+        "width": 390,
+        "h1": [
+          "A useful assistant needs more than a prompt."
+        ],
+        "title": "AI Chatbot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 219
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/ai-chatbots-explained.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "AI Chatbots Explained: How They Work and Where They Are Useful"
+        ],
+        "title": "AI Chatbots Explained: Uses & Limits | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 195
+      },
+      {
+        "width": 390,
+        "h1": [
+          "AI Chatbots Explained: How They Work and Where They Are Useful"
+        ],
+        "title": "AI Chatbots Explained: Uses & Limits | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 180
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/answer-engine-content-design.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Designing Answer-Ready Content for AEO"
+        ],
+        "title": "Writing Clear Answers for AEO | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 159
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Designing Answer-Ready Content for AEO"
+        ],
+        "title": "Writing Clear Answers for AEO | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 141
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-ai-automation.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Practical AI Automation: design the workflow before the prompt"
+        ],
+        "title": "Designing Responsible AI Automation | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 152
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Practical AI Automation: design the workflow before the prompt"
+        ],
+        "title": "Designing Responsible AI Automation | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 153
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-api-integration.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "API Integration Checklist for Small Web Projects"
+        ],
+        "title": "API Integration Checklist for Web Projects | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 141
+      },
+      {
+        "width": 390,
+        "h1": [
+          "API Integration Checklist for Small Web Projects"
+        ],
+        "title": "API Integration Checklist for Web Projects | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 166
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-bakhtawar-khan.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Bakhtawar Khan: learning, building and sharing in public"
+        ],
+        "title": "Bakhtawar Khan: Learning & Building | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 164
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Bakhtawar Khan: learning, building and sharing in public"
+        ],
+        "title": "Bakhtawar Khan: Learning & Building | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 168
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-mbk-global.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "MBK Global: a home for creative digital work"
+        ],
+        "title": "MBK Global: Projects & Founder Context | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 136
+      },
+      {
+        "width": 390,
+        "h1": [
+          "MBK Global: a home for creative digital work"
+        ],
+        "title": "MBK Global: Projects & Founder Context | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 135
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-mbk-markets.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "MBK Markets: exploring a clearer view of market data"
+        ],
+        "title": "MBK Markets: Market Data Interface Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 166
+      },
+      {
+        "width": 390,
+        "h1": [
+          "MBK Markets: exploring a clearer view of market data"
+        ],
+        "title": "MBK Markets: Market Data Interface Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 140
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-mbk-next-steps.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "What comes next for the MBK portfolio"
+        ],
+        "title": "Next Steps for the MBK Portfolio | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 131
+      },
+      {
+        "width": 390,
+        "h1": [
+          "What comes next for the MBK portfolio"
+        ],
+        "title": "Next Steps for the MBK Portfolio | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 155
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-mbk-tools.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "MBK Downloader and Text to Handwriting: focused tools for focused tasks"
+        ],
+        "title": "MBK Downloader & Handwriting Tool Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 143
+      },
+      {
+        "width": 390,
+        "h1": [
+          "MBK Downloader and Text to Handwriting: focused tools for focused tasks"
+        ],
+        "title": "MBK Downloader & Handwriting Tool Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 125
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-mbk-tv.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "MBK TV: thinking about a digital media destination"
+        ],
+        "title": "MBK TV: Media Discovery Project Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 120
+      },
+      {
+        "width": 390,
+        "h1": [
+          "MBK TV: thinking about a digital media destination"
+        ],
+        "title": "MBK TV: Media Discovery Project Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 120
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-noor-e-quran.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Noor-e-Quran: creating a calm digital learning experience"
+        ],
+        "title": "Noor-e-Quran: Reading Experience Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 135
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Noor-e-Quran: creating a calm digital learning experience"
+        ],
+        "title": "Noor-e-Quran: Reading Experience Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 178
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/article-react-performance.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "React Performance: a practical checklist before optimizing"
+        ],
+        "title": "React Performance Checklist | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 162
+      },
+      {
+        "width": 390,
+        "h1": [
+          "React Performance: a practical checklist before optimizing"
+        ],
+        "title": "React Performance Checklist | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 153
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/automation-and-ai-workflows-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Automation and Responsible AI Workflows"
+        ],
+        "title": "Automation & Responsible AI Workflows | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 140
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Automation and Responsible AI Workflows"
+        ],
+        "title": "Automation & Responsible AI Workflows | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 121
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/blog.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Stories from the MBK universe."
+        ],
+        "title": "Technology Articles & Practical Guides | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 171
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Stories from the MBK universe."
+        ],
+        "title": "Technology Articles & Practical Guides | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 174
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/book-a-call.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Let’s make yournext idea happen."
+        ],
+        "title": "Discuss a Project with Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 151
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Let’s make yournext idea happen."
+        ],
+        "title": "Discuss a Project with Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 156
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "formCompose": "Passed with intercepted window.open; no message sent"
+  },
+  "/case-studies.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "The thinking behindthe builds."
+        ],
+        "title": "Project Notes & Case Studies | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 185
+      },
+      {
+        "width": 390,
+        "h1": [
+          "The thinking behindthe builds."
+        ],
+        "title": "Project Notes & Case Studies | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 275
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/changelog.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "What’s changing."
+        ],
+        "title": "Portfolio Changelog & Website Updates | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 148
+      },
+      {
+        "width": 390,
+        "h1": [
+          "What’s changing."
+        ],
+        "title": "Portfolio Changelog & Website Updates | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 143
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/contact.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Got something in mind?"
+        ],
+        "title": "Contact Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 152
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Got something in mind?"
+        ],
+        "title": "Contact Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 146
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "formCompose": "Passed with intercepted window.open; no message sent"
+  },
+  "/content-strategy-and-search-intent.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Content Strategy and Search Intent"
+        ],
+        "title": "Content Strategy & Search Intent | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 156
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Content Strategy and Search Intent"
+        ],
+        "title": "Content Strategy & Search Intent | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 140
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/cybersecurity.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Web Security"
+        ],
+        "title": "Web Security Review & Practices | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 132
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Web Security"
+        ],
+        "title": "Web Security Review & Practices | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 164
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/delivered-project.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Clear steps.Thoughtful work.Final delivery."
+        ],
+        "title": "Project Process, Review & Delivery | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 181
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Clear steps.Thoughtful work.Final delivery."
+        ],
+        "title": "Project Process, Review & Delivery | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 202
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/deployment-and-maintenance-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Deploying and Maintaining a Static Website"
+        ],
+        "title": "Static Website Deployment & Maintenance | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 170
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Deploying and Maintaining a Static Website"
+        ],
+        "title": "Static Website Deployment & Maintenance | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 162
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/digital-branding.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Digital Branding"
+        ],
+        "title": "Digital Branding & Portfolio Design | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 134
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Digital Branding"
+        ],
+        "title": "Digital Branding & Portfolio Design | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 160
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/faq.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Good questions.Clear answers."
+        ],
+        "title": "Project & Service Questions Answered | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 151
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Good questions.Clear answers."
+        ],
+        "title": "Project & Service Questions Answered | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 135
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/gallery.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "A little more personal."
+        ],
+        "title": "Bakhtawar Khan Photos & Portrait Gallery | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 365
+      },
+      {
+        "width": 390,
+        "h1": [
+          "A little more personal."
+        ],
+        "title": "Bakhtawar Khan Photos & Portrait Gallery | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 280
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "lightbox": "Open/close passed using the local delivery image"
+  },
+  "/generative-search-entity-clarity.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Entity Clarity for Generative Search: Person, Brand and Projects"
+        ],
+        "title": "Personal Brand Entity Clarity for AI Search | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 202
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Entity Clarity for Generative Search: Person, Brand and Projects"
+        ],
+        "title": "Personal Brand Entity Clarity for AI Search | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 154
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/hire-me.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Your next project,with a clearer starting point."
+        ],
+        "title": "Hire Bakhtawar Khan | Web, API & Automation Projects",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 193
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Your next project,with a clearer starting point."
+        ],
+        "title": "Hire Bakhtawar Khan | Web, API & Automation Projects",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 1,
+        "localFixtureLoadMs": 176
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting",
+    "formCompose": "Passed with intercepted window.open; no message sent"
+  },
+  "/muhammad-bakhtawar-khan-digital-portfolio.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Bakhtawar Khan (MBK): A Digital Portfolio Built Around Practical Projects"
+        ],
+        "title": "Bakhtawar Khan's Digital Practice | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 136
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Bakhtawar Khan (MBK): A Digital Portfolio Built Around Practical Projects"
+        ],
+        "title": "Bakhtawar Khan's Digital Practice | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 160
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/news.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "The work in progress. Documented."
+        ],
+        "title": "Project Updates & Digital Technology Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 201
+      },
+      {
+        "width": 390,
+        "h1": [
+          "The work in progress. Documented."
+        ],
+        "title": "Project Updates & Digital Technology Notes | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 183
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/official-links.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Official links & projects"
+        ],
+        "title": "Official Website & Profile Links | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 204
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Official links & projects"
+        ],
+        "title": "Official Website & Profile Links | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 156
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/on-page-seo-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "On-Page SEO Guide for Small Websites"
+        ],
+        "title": "On-Page SEO for Small Websites | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 138
+      },
+      {
+        "width": 390,
+        "h1": [
+          "On-Page SEO Guide for Small Websites"
+        ],
+        "title": "On-Page SEO for Small Websites | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 182
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/personal-branding-and-online-identity.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Personal Branding and Online Identity"
+        ],
+        "title": "Personal Branding & Online Identity | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 180
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Personal Branding and Online Identity"
+        ],
+        "title": "Personal Branding & Online Identity | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 189
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/privacy-policy.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Privacy policy."
+        ],
+        "title": "Portfolio Privacy Policy | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 228
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Privacy policy."
+        ],
+        "title": "Portfolio Privacy Policy | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 187
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/projects.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Experiments made real."
+        ],
+        "title": "Web Projects by Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 151
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Experiments made real."
+        ],
+        "title": "Web Projects by Bakhtawar Khan | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 189
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/react-api-interface-design.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Designing React Interfaces Around Real API States"
+        ],
+        "title": "React Interfaces for Real API States | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 235
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Designing React Interfaces Around Real API States"
+        ],
+        "title": "React Interfaces for Real API States | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 178
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/resources.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Useful starting points, not noise."
+        ],
+        "title": "Web Development & API Learning Resources | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 146
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Useful starting points, not noise."
+        ],
+        "title": "Web Development & API Learning Resources | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 176
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/resume.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Resume / CV."
+        ],
+        "title": "Bakhtawar Khan — Skills & Resume | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 184
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Resume / CV."
+        ],
+        "title": "Bakhtawar Khan — Skills & Resume | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 196
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/seo-aeo-geo-for-personal-brands.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "SEO, AEO and GEO for a Personal Brand: The MBK Approach"
+        ],
+        "title": "SEO, AEO & GEO for Personal Brands | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 180
+      },
+      {
+        "width": 390,
+        "h1": [
+          "SEO, AEO and GEO for a Personal Brand: The MBK Approach"
+        ],
+        "title": "SEO, AEO & GEO for Personal Brands | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 171
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/services.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Useful software.Clearly scoped."
+        ],
+        "title": "Web Development & Digital Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 159
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Useful software.Clearly scoped."
+        ],
+        "title": "Web Development & Digital Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 152
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/social-media-automation.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Less repetition.More considered responses."
+        ],
+        "title": "Social Media Automation | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 155
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Less repetition.More considered responses."
+        ],
+        "title": "Social Media Automation | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 171
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/social.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Find me elsewhere."
+        ],
+        "title": "Bakhtawar Khan's Public Profiles | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 170
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Find me elsewhere."
+        ],
+        "title": "Bakhtawar Khan's Public Profiles | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 169
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/technical-seo-checklist-mbk.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Technical SEO Checklist for a Portfolio Website"
+        ],
+        "title": "Technical SEO Checklist for Portfolios | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 180
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Technical SEO Checklist for a Portfolio Website"
+        ],
+        "title": "Technical SEO Checklist for Portfolios | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 165
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/technical-seo.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Technical SEO"
+        ],
+        "title": "Technical SEO Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 161
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Technical SEO"
+        ],
+        "title": "Technical SEO Services | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 167
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/telegram-bot-development.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Small commands.Connected workflows."
+        ],
+        "title": "Telegram Bot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 139
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Small commands.Connected workflows."
+        ],
+        "title": "Telegram Bot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 142
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/telegram-bot-workflow-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Telegram Bot Development: From Basic Commands to Automated Workflows"
+        ],
+        "title": "Telegram Bot Commands & Workflow Guide | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 155
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Telegram Bot Development: From Basic Commands to Automated Workflows"
+        ],
+        "title": "Telegram Bot Commands & Workflow Guide | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 136
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/web-development.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Web Development"
+        ],
+        "title": "Website Development Services | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 153
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Web Development"
+        ],
+        "title": "Website Development Services | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 160
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/web-performance-and-ux-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Web Performance and User Experience Guide"
+        ],
+        "title": "Web Performance & User Experience Guide | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 132
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Web Performance and User Experience Guide"
+        ],
+        "title": "Web Performance & User Experience Guide | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 153
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/web-security-basics-for-small-sites.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Web Security Basics for Small Websites"
+        ],
+        "title": "Web Security Basics for Small Websites | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 153
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Web Security Basics for Small Websites"
+        ],
+        "title": "Web Security Basics for Small Websites | Mr Bakhtawar",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 158
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/whatsapp-business-chatbot-guide.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "WhatsApp Chatbots for Businesses: Features, Use Cases, and Implementation"
+        ],
+        "title": "WhatsApp Business Chatbot Planning Guide | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 165
+      },
+      {
+        "width": 390,
+        "h1": [
+          "WhatsApp Chatbots for Businesses: Features, Use Cases, and Implementation"
+        ],
+        "title": "WhatsApp Business Chatbot Planning Guide | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 141
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  },
+  "/whatsapp-chatbot-development.html": {
+    "errors": [],
+    "overflow": false,
+    "viewports": [
+      {
+        "width": 1440,
+        "h1": [
+          "Make the next conversation easier."
+        ],
+        "title": "WhatsApp Chatbot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 131
+      },
+      {
+        "width": 390,
+        "h1": [
+          "Make the next conversation easier."
+        ],
+        "title": "WhatsApp Chatbot Development | Bakhtawar Khan",
+        "overflow": false,
+        "missingImages": [],
+        "forms": 0,
+        "localFixtureLoadMs": 140
+      }
+    ],
+    "method": "Built files served through a read-only Playwright route fixture, not production hosting"
+  }
+}

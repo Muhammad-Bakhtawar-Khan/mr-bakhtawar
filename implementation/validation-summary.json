@@ -1,0 +1,14 @@
+{
+  "collected_at": "2026-10-28T22:55:07.498752+00:00",
+  "initial_routes": 107,
+  "final_routes": 107,
+  "canonical_pages": 54,
+  "sitemap_entries": 54,
+  "keyword_records": 191,
+  "images_checked": 106,
+  "internal_link_usages": 5489,
+  "external_link_usages": 369,
+  "errors": [],
+  "rendered_pages": 54,
+  "production_deployed": false
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "MBK TV",
+    "category": "Media discovery",
+    "mark": "TV",
+    "description": "An interface for discovering available television channels. Availability depends on the underlying content sources.",
+    "url": "https://mbktv.vercel.app/",
+    "notes": "article-mbk-tv"
+  },
+  {
+    "name": "MBK Markets",
+    "category": "Data interfaces",
+    "mark": "01\u2197",
+    "description": "A market-data interface exploring cryptocurrency information and charts. Verify current sources before relying on data.",
+    "url": "https://mbkmarkets.vercel.app/",
+    "notes": "article-mbk-markets"
+  },
+  {
+    "name": "MBK Video Downloader",
+    "category": "Web utilities",
+    "mark": "\u2193",
+    "description": "A link-based utility for supported media sources. Platform support and the current redirect destination need review.",
+    "url": "https://mbkdownloader.vercel.app/",
+    "notes": "article-mbk-tools"
+  },
+  {
+    "name": "MBK Text to Handwriting",
+    "category": "Creative tools",
+    "mark": "Aa",
+    "description": "A separate utility that presents typed text in a handwriting-inspired format.",
+    "url": "https://handster.netlify.app/",
+    "notes": "article-mbk-tools"
+  },
+  {
+    "name": "Noor Quran",
+    "category": "Reading experiences",
+    "mark": "\u0646\u0648\u0631",
+    "description": "A Quran-reading resource with a focus on calm, legible content presentation.",
+    "url": "https://noorquranbymbk.vercel.app/",
+    "notes": "article-noor-e-quran"
+  },
+  {
+    "name": "Warm GPT by MBK Global",
+    "category": "AI exploration",
+    "mark": "W",
+    "description": "Project name supplied by the owner. Description, implementation details and destination have not yet been provided.",
+    "url": null,
+    "notes": null
+  },
+  {
+    "name": "AI Text to Voice",
+    "category": "Audio & accessibility",
+    "mark": "\u224b",
+    "description": "A text-to-audio direction related to the existing planned text-to-speech entry. No verified live destination is available.",
+    "url": null,
+    "notes": null
+  }
+]

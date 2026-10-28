@@ -1,0 +1,92 @@
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Content-Security-Policy-Report-Only: default-src 'self' https: data: blob:; img-src 'self' https: data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; script-src 'self' 'unsafe-inline' https:; connect-src 'self' https:; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https:;
+
+# Historical audits and maintenance data are not search landing pages.
+/AEO-GEO-SEO-GUIDE.md
+  X-Robots-Tag: noindex, nofollow
+/BACKLINK-PLAN-README.md
+  X-Robots-Tag: noindex, nofollow
+/BASELINE-SOURCE-INVENTORY.json
+  X-Robots-Tag: noindex, nofollow
+/CHANGELOG.md
+  X-Robots-Tag: noindex, nofollow
+/CONTENT-OVERLAP-MATRIX.csv
+  X-Robots-Tag: noindex, nofollow
+/CONTENT-SEO-NOTES.md
+  X-Robots-Tag: noindex, nofollow
+/FINAL-ROADMAP.md
+  X-Robots-Tag: noindex, nofollow
+/FINAL-SEO-AUDIT-REPORT.md
+  X-Robots-Tag: noindex, nofollow
+/HOMEPAGE-DESIGN-REFRESH.md
+  X-Robots-Tag: noindex, nofollow
+/IDENTITY-CONTENT-ARCHITECTURE.md
+  X-Robots-Tag: noindex, nofollow
+/IDENTITY-SEO-IMPLEMENTATION-REPORT.md
+  X-Robots-Tag: noindex, nofollow
+/IMAGE-SEO-AUDIT.csv
+  X-Robots-Tag: noindex, nofollow
+/IMPLEMENTATION-FILE-INVENTORY.md
+  X-Robots-Tag: noindex, nofollow
+/INTERNAL-LINKING-AND-KEYWORD-REFRESH.md
+  X-Robots-Tag: noindex, nofollow
+/LAUNCH-READY-CHECKLIST.md
+  X-Robots-Tag: noindex, nofollow
+/MASTER-AUDIT.md
+  X-Robots-Tag: noindex, nofollow
+/MBK-10T-VISION-SEO-IMPLEMENTATION-REPORT.md
+  X-Robots-Tag: noindex, nofollow
+/MBK-DESIGN-REFINEMENT-NOTES.md
+  X-Robots-Tag: noindex, nofollow
+/MBK-KNOWLEDGE-GRAPH-SCHEMA-IMPLEMENTATION.md
+  X-Robots-Tag: noindex, nofollow
+/MR-BAKHTAWAR-SEO-UPDATE.md
+  X-Robots-Tag: noindex, nofollow
+/NAVBAR-FAVICON-REFRESH.md
+  X-Robots-Tag: noindex, nofollow
+/NETLIFY-SEO-AEO-GEO-UPDATE-REPORT.md
+  X-Robots-Tag: noindex, nofollow
+/NETLIFY-SEO-DEPLOY-CHECKLIST.md
+  X-Robots-Tag: noindex, nofollow
+/NEW-PAGES-README.md
+  X-Robots-Tag: noindex, nofollow
+/PAGE-BY-PAGE-AUDIT.csv
+  X-Robots-Tag: noindex, nofollow
+/POST-DEPLOYMENT-MONITORING.md
+  X-Robots-Tag: noindex, nofollow
+/README.md
+  X-Robots-Tag: noindex, nofollow
+/SEO-BACKLINK-REVIEW.csv
+  X-Robots-Tag: noindex, nofollow
+/SEO-CHECKLIST.md
+  X-Robots-Tag: noindex, nofollow
+/SEO-ISSUES.csv
+  X-Robots-Tag: noindex, nofollow
+/SEO-KEYWORD-MAP.md
+  X-Robots-Tag: noindex, nofollow
+/SEO-URL-MAPPING.csv
+  X-Robots-Tag: noindex, nofollow
+/SOURCE-SEO-AUDIT-FINAL.md
+  X-Robots-Tag: noindex, nofollow
+/SOURCE-SEO-CHANGELOG.md
+  X-Robots-Tag: noindex, nofollow
+/SOURCE-SEO-ROADMAP.md
+  X-Robots-Tag: noindex, nofollow
+/TEST-REPORT.md
+  X-Robots-Tag: noindex, nofollow
+/backlink-seo-plan/100-plus-backlink-opportunities-tracker.csv
+  X-Robots-Tag: noindex, nofollow
+/backlink-seo-plan/BACKLINK-SEO-PLAN.md
+  X-Robots-Tag: noindex, nofollow
+/identity-config.json
+  X-Robots-Tag: noindex, nofollow
+/scripts/sync_identity.py
+  X-Robots-Tag: noindex, nofollow
+/scripts/validate_identity.py
+  X-Robots-Tag: noindex, nofollow
+/vercel.json
+  X-Robots-Tag: noindex, nofollow

@@ -1,0 +1,6525 @@
+{
+  "/blog-api-security.html": [],
+  "/article-technical-seo.html": [],
+  "/blog-developer-documentation.html": [],
+  "/thank-you.html": [],
+  "/blog-community-feedback.html": [],
+  "/blog-internal-linking.html": [],
+  "/article-mbk-tv.html": [],
+  "/web-development.html": [],
+  "/article-mbk-markets.html": [],
+  "/blog-seo-title-tags.html": [],
+  "/technical-seo.html": [],
+  "/web-performance-and-ux-guide.html": [],
+  "/blog-web-accessibility.html": [],
+  "/ai-chatbot-development.html": [],
+  "/blog-technical-seo-checklist.html": [],
+  "/ai-chatbots-explained.html": [],
+  "/blog-digital-identity.html": [],
+  "/blog-testimonial-ethics.html": [],
+  "/article-api-integration.html": [],
+  "/blog-social-profile-links.html": [],
+  "/web-security-basics-for-small-sites.html": [],
+  "/blog-robots-txt.html": [],
+  "/whatsapp-business-chatbot-guide.html": [],
+  "/gallery.html": [],
+  "/blog-personal-branding.html": [],
+  "/blog-cybersecurity-learning.html": [],
+  "/generative-search-entity-clarity.html": [],
+  "/article-bakhtawar-khan.html": [],
+  "/blog-portfolio-seo.html": [],
+  "/blog-content-planning.html": [],
+  "/about-muhammad-bakhtawar-khan.html": [],
+  "/telegram-bot-development.html": [],
+  "/blog-github-workflow.html": [],
+  "/services.html": [],
+  "/resources.html": [
+    {
+      "tag": "input",
+      "attributes": {
+        "type": "search",
+        "id": "resource-filter",
+        "placeholder": "Try Telegram, security, React\u2026"
+      }
+    }
+  ],
+  "/contact.html": [
+    {
+      "tag": "form",
+      "attributes": {
+        "class": "project-form",
+        "id": "whatsappProjectForm"
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "name",
+        "name": "name",
+        "placeholder": "Enter your name",
+        "required": ""
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "tel",
+        "name": "phone",
+        "placeholder": "Your contact number",
+        "required": ""
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "email",
+        "name": "email",
+        "placeholder": "you@example.com",
+        "type": "email"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "service",
+        "required": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "budget"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Not specified"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "timeline"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Flexible"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "textarea",
+      "attributes": {
+        "name": "details",
+        "placeholder": "What do you want to build? Mention key features, references or goals.",
+        "required": "",
+        "rows": "5"
+      }
+    }
+  ],
+  "/deployment-and-maintenance-guide.html": [],
+  "/privacy-policy.html": [],
+  "/on-page-seo-guide.html": [],
+  "/seo-aeo-geo-for-personal-brands.html": [],
+  "/article-ai-automation.html": [],
+  "/article-react-performance.html": [],
+  "/resume.html": [],
+  "/article-mbk-global.html": [],
+  "/social-media-automation.html": [],
+  "/about.html": [],
+  "/projects.html": [],
+  "/blog-domain-ssl-basics.html": [],
+  "/automation-and-ai-workflows-guide.html": [],
+  "/blog-faq-content.html": [],
+  "/changelog.html": [],
+  "/blog-vercel-deployment.html": [],
+  "/delivered-project.html": [],
+  "/ai-api-integration.html": [],
+  "/blog-ai-workflows.html": [],
+  "/google194f46fe9461fc27.html": [],
+  "/whatsapp-chatbot-development.html": [],
+  "/news.html": [
+    {
+      "tag": "input",
+      "attributes": {
+        "id": "note-search",
+        "type": "search",
+        "placeholder": "Search notes, topics and decisions"
+      }
+    }
+  ],
+  "/blog-n8n-workflows.html": [],
+  "/react-api-interface-design.html": [],
+  "/blog-product-thinking.html": [],
+  "/blog-search-intent.html": [],
+  "/blog-web-performance.html": [],
+  "/content-strategy-and-search-intent.html": [],
+  "/technical-seo-checklist-mbk.html": [],
+  "/blog-website-maintenance.html": [],
+  "/official-links.html": [],
+  "/blog-google-indexing.html": [],
+  "/blog-structured-data.html": [],
+  "/blog-website-launch.html": [],
+  "/article-noor-e-quran.html": [],
+  "/hire-me.html": [
+    {
+      "tag": "form",
+      "attributes": {
+        "class": "project-form",
+        "id": "whatsappProjectForm"
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "name",
+        "name": "name",
+        "placeholder": "Enter your name",
+        "required": ""
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "tel",
+        "name": "phone",
+        "placeholder": "Your contact number",
+        "required": ""
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "email",
+        "name": "email",
+        "placeholder": "you@example.com",
+        "type": "email"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "service",
+        "required": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "budget"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Not specified"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "name": "timeline"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Flexible"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "textarea",
+      "attributes": {
+        "name": "details",
+        "placeholder": "What do you want to build? Mention key features, references or goals.",
+        "required": "",
+        "rows": "5"
+      }
+    }
+  ],
+  "/blog.html": [
+    {
+      "tag": "input",
+      "attributes": {
+        "id": "library-search",
+        "type": "search",
+        "placeholder": "Search articles, projects and practical guides\u2026"
+      }
+    }
+  ],
+  "/blog-privacy-by-design.html": [],
+  "/personal-branding-and-online-identity.html": [],
+  "/blog-user-experience.html": [],
+  "/faq.html": [
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Search frequently asked questions",
+        "id": "faqSearch",
+        "placeholder": "Search questions\u2026",
+        "type": "search"
+      }
+    }
+  ],
+  "/blog-responsive-design.html": [],
+  "/api-integration-for-modern-web-projects.html": [],
+  "/blog-reverse-engineering-ethics.html": [],
+  "/cybersecurity.html": [],
+  "/social.html": [],
+  "/404.html": [],
+  "/blog-digital-rights.html": [],
+  "/blog-image-seo.html": [],
+  "/article-mbk-next-steps.html": [],
+  "/telegram-bot-workflow-guide.html": [],
+  "/blog-content-quality.html": [],
+  "/blog-web-forms.html": [],
+  "/blog-online-reputation.html": [],
+  "/book-a-call.html": [
+    {
+      "tag": "form",
+      "attributes": {
+        "class": "contact-form call-form",
+        "id": "call-request"
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "name",
+        "id": "name",
+        "name": "name",
+        "placeholder": "Full name",
+        "required": ""
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "email",
+        "id": "email",
+        "name": "email",
+        "placeholder": "you@example.com",
+        "required": "",
+        "type": "email"
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "autocomplete": "tel",
+        "id": "phone",
+        "name": "phone",
+        "placeholder": "+country code",
+        "type": "tel"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "id": "topic",
+        "name": "topic",
+        "required": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Website or web app"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "AI or automation"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "API development or integration"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "SEO or website improvements"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Cybersecurity or technical review"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Digital branding"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Collaboration / other"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "id": "budget",
+        "name": "budget"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": "Not decided"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "id": "time",
+        "name": "time",
+        "placeholder": "e.g. weekday evening, PKT"
+      }
+    },
+    {
+      "tag": "textarea",
+      "attributes": {
+        "id": "details",
+        "name": "details",
+        "placeholder": "A short overview, key features, current website (if any), target launch date, or the main problem you want to solve.",
+        "required": "",
+        "rows": "5"
+      }
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "id": "confirm",
+        "required": "",
+        "type": "checkbox"
+      }
+    }
+  ],
+  "/blog-keyword-research.html": [],
+  "/blog-data-validation.html": [],
+  "/blog-local-seo-basics.html": [],
+  "/blog-automation-basics.html": [],
+  "/case-studies.html": [],
+  "/digital-branding.html": [],
+  "/blog-meta-descriptions.html": [],
+  "/blog-cloud-computing-basics.html": [],
+  "/answer-engine-content-design.html": [],
+  "/blog-xml-sitemaps.html": [],
+  "/blog-canonical-urls.html": [],
+  "/muhammad-bakhtawar-khan-digital-portfolio.html": [],
+  "/article-mbk-tools.html": [],
+  "/backlink-seo-plan/BACKLINK-TRACKER.html": [
+    {
+      "tag": "input",
+      "attributes": {
+        "id": "search",
+        "placeholder": "Filter platform, category, or fit\u2026"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "id": "priority"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {
+        "value": ""
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for LinkedIn"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for LinkedIn",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for About.me"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for About.me",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Linktree"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Linktree",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Gravatar"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Gravatar",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for X"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for X",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Facebook Pages"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Facebook Pages",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Instagram"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Instagram",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for YouTube"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for YouTube",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Pinterest"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Pinterest",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for TikTok"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for TikTok",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Threads"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Threads",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Mastodon"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Mastodon",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Bluesky"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Bluesky",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Reddit"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Reddit",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Quora"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Quora",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Medium"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Medium",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Substack"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Substack",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Blogger"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Blogger",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for WordPress.com"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for WordPress.com",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Tumblr"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Tumblr",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GitHub"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GitHub",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GitLab"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GitLab",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Bitbucket"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Bitbucket",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for CodePen"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for CodePen",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Stack Overflow"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Stack Overflow",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for DEV Community"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for DEV Community",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hashnode"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hashnode",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for HackerNoon"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for HackerNoon",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for freeCodeCamp"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for freeCodeCamp",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Replit"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Replit",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for CodeSandbox"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for CodeSandbox",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Glitch"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Glitch",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hugging Face"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hugging Face",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Kaggle"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Kaggle",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for LeetCode"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for LeetCode",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for HackerRank"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for HackerRank",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for CodeProject"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for CodeProject",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for SourceForge"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for SourceForge",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Product Hunt"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Product Hunt",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Indie Hackers"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Indie Hackers",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Behance"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Behance",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Dribbble"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Dribbble",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for ArtStation"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for ArtStation",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for DeviantArt"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for DeviantArt",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Flickr"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Flickr",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for 500px"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for 500px",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Vimeo"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Vimeo",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Dailymotion"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Dailymotion",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Adobe Portfolio"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Adobe Portfolio",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Canva"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Canva",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Crevado"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Crevado",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Cargo"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Cargo",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Wix"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Wix",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Webflow"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Webflow",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Framer"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Framer",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Carrd"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Carrd",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Squarespace"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Squarespace",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Read.cv"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Read.cv",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Polywork"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Polywork",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Contra"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Contra",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Ghost"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Ghost",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Write.as"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Write.as",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Telegra.ph"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Telegra.ph",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hashnode Blog"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hashnode Blog",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for DEV Articles"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for DEV Articles",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Medium Publications"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Medium Publications",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Substack Newsletter"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Substack Newsletter",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for WordPress Blog"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for WordPress Blog",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Blogger Blog"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Blogger Blog",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Tumblr Blog"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Tumblr Blog",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Issuu"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Issuu",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for SlideShare"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for SlideShare",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Speaker Deck"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Speaker Deck",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Scribd"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Scribd",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Calameo"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Calameo",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for FlipHTML5"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for FlipHTML5",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Publuu"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Publuu",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Notion public pages"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Notion public pages",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Google Sites"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Google Sites",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GitHub Pages"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GitHub Pages",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Crunchbase"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Crunchbase",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Wellfound"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Wellfound",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for F6S"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for F6S",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for BetaList"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for BetaList",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for AlternativeTo"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for AlternativeTo",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for SaaSHub"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for SaaSHub",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for G2"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for G2",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Capterra"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Capterra",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GetApp"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GetApp",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Trustpilot"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Trustpilot",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Clutch"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Clutch",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GoodFirms"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GoodFirms",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for DesignRush"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for DesignRush",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for The Manifest"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for The Manifest",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Sortlist"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Sortlist",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for TechBehemoths"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for TechBehemoths",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GoodFirms Developer Listing"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GoodFirms Developer Listing",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for EU-Startups"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for EU-Startups",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Startup Stash"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Startup Stash",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Product Hunt Launch"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Product Hunt Launch",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Upwork"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Upwork",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Fiverr"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Fiverr",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Freelancer"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Freelancer",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for PeoplePerHour"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for PeoplePerHour",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Guru"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Guru",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Toptal"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Toptal",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for 99designs"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for 99designs",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for DesignCrowd"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for DesignCrowd",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Workana"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Workana",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Malt"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Malt",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Contra Services"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Contra Services",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Codeable"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Codeable",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Gun.io"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Gun.io",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Arc"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Arc",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for FlexJobs"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for FlexJobs",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Stack Exchange"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Stack Exchange",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Super User"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Super User",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Server Fault"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Server Fault",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Ask Ubuntu"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Ask Ubuntu",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Webmasters Stack Exchange"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Webmasters Stack Exchange",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Spiceworks Community"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Spiceworks Community",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hashnode Community"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hashnode Community",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hacker News"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hacker News",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Lobsters"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Lobsters",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Indie Hackers Community"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Indie Hackers Community",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Product Hunt Discussions"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Product Hunt Discussions",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for GrowthHackers"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for GrowthHackers",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Warrior Forum"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Warrior Forum",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Digital Point Forums"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Digital Point Forums",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Webflow Forum"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Webflow Forum",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Google Business Profile"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Google Business Profile",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Bing Places"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Bing Places",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Apple Business Connect"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Apple Business Connect",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for OpenStreetMap"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for OpenStreetMap",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Pakistan Business Directory"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Pakistan Business Directory",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Lookup.pk"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Lookup.pk",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for BusinessList.pk"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for BusinessList.pk",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Branches.pk"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Branches.pk",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Yellow Pages Pakistan"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Yellow Pages Pakistan",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hamariweb Business Directory"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hamariweb Business Directory",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Kompass"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Kompass",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Hotfrog"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Hotfrog",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Manta"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Manta",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Yelp"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Yelp",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Foursquare"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Foursquare",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Pocket"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Pocket",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Flipboard"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Flipboard",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Wakelet"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Wakelet",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Pearltrees"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Pearltrees",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Diigo"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Diigo",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Raindrop.io"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Raindrop.io",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Instapaper"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Instapaper",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Beacons"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Beacons",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Bio.site"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Bio.site",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Ko-fi"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Ko-fi",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Buy Me a Coffee"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Buy Me a Coffee",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Patreon"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Patreon",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Gumroad"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Gumroad",
+        "placeholder": "Paste public profile URL"
+      }
+    },
+    {
+      "tag": "select",
+      "attributes": {
+        "aria-label": "Status for Bandcamp"
+      }
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "option",
+      "attributes": {}
+    },
+    {
+      "tag": "input",
+      "attributes": {
+        "aria-label": "Published URL for Bandcamp",
+        "placeholder": "Paste public profile URL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Mr Bakhtawar | Bakhtawar Khan Portfolio — MBK Global",
+  "description": "Explore Bakhtawar Khan’s professional digital portfolio, web development projects, services, technical skills, case studies, and creative work with MBK Global.",
+  "language": "en",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "openGraph": {
+    "image": "https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png"
+  },
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

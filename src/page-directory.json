@@ -1,0 +1,320 @@
+[
+  {
+    "route": "/about.html",
+    "title": "About Bakhtawar Khan | Mr Bakhtawar & MBK Global",
+    "family": "profile",
+    "description": "Meet Bakhtawar Khan, known as Mr Bakhtawar and founder of MBK Global. Explore his independent projects, web development, AI and API interests, and approach."
+  },
+  {
+    "route": "/ai-api-integration.html",
+    "title": "AI & API Integration Services | Mr Bakhtawar",
+    "family": "service",
+    "description": "AI & API Integration from Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and contact options."
+  },
+  {
+    "route": "/answer-engine-content-design.html",
+    "title": "Writing Clear Answers for AEO | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Designing Answer-Ready Content for AEO: How to create clear, trustworthy answers without stuffing the name Bakhtawar Khan or the MBK Global brand."
+  },
+  {
+    "route": "/article-api-integration.html",
+    "title": "API Integration Checklist for Web Projects | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "A practical API integration checklist: review documentation, protect secrets, validate responses, test failure states and plan a maintainable handover."
+  },
+  {
+    "route": "/article-ai-automation.html",
+    "title": "Designing Responsible AI Automation | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Plan practical AI automation around a real workflow: define the goal, protect sensitive data, review outputs and test failure paths before relying on results."
+  },
+  {
+    "route": "/article-bakhtawar-khan.html",
+    "title": "Bakhtawar Khan: Learning & Building | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Get to know Mr. Bakhtawar, also known as Bakhtawar MBK or MBK Bakhtawar: Bakhtawar Khan, founder of MBK Global in Karachi."
+  },
+  {
+    "route": "/article-mbk-global.html",
+    "title": "MBK Global: Projects & Founder Context | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "MBK Global: Digital Projects & Technology: A brand direction that brings web experiences, design thinking and technology experiments under one identity. By."
+  },
+  {
+    "route": "/article-mbk-markets.html",
+    "title": "MBK Markets: Market Data Interface Notes | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "Explore MBK Markets project notes: cryptocurrency data presentation, chart interfaces, source limitations and questions to verify before using the information."
+  },
+  {
+    "route": "/article-mbk-next-steps.html",
+    "title": "Next Steps for the MBK Portfolio | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "What Comes Next for the MBK Portfolio: A professional portfolio grows through accurate details, regular maintenance and real evidence of work. By Mr. Bakhtawar."
+  },
+  {
+    "route": "/article-mbk-tools.html",
+    "title": "MBK Downloader & Handwriting Tool Notes | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "MBK Downloader & Text to Handwriting: A multi-platform video downloader that turns a supported video link into a simple, focused download workflow. By Mr."
+  },
+  {
+    "route": "/article-mbk-tv.html",
+    "title": "MBK TV: Media Discovery Project Notes | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "MBK TV Project | Digital Media Experience by MBK: An online TV experience for discovering and watching available live channels and streaming content in one."
+  },
+  {
+    "route": "/article-noor-e-quran.html",
+    "title": "Noor-e-Quran: Reading Experience Notes | Mr Bakhtawar",
+    "family": "case-study",
+    "description": "Explore Noor-e-Quran project notes from Bakhtawar Khan: a calm reading interface, content presentation and practical questions for future refinement."
+  },
+  {
+    "route": "/article-react-performance.html",
+    "title": "React Performance Checklist | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "A practical React performance checklist: profile real interactions, inspect rendering and bundle costs, and verify accessible loading and error states."
+  },
+  {
+    "route": "/technical-seo-checklist-mbk.html",
+    "title": "Technical SEO Checklist for Portfolios | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Technical SEO Checklist for a Portfolio Website: A practical checklist from Bakhtawar Khan (MBK) covering indexing, canonicals, metadata, internal."
+  },
+  {
+    "route": "/automation-and-ai-workflows-guide.html",
+    "title": "Automation & Responsible AI Workflows | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "A practical guide to designing dependable automations and using AI assistance with validation, privacy controls, failure handling and human review."
+  },
+  {
+    "route": "/web-security-basics-for-small-sites.html",
+    "title": "Web Security Basics for Small Websites | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Web Security Basics for Small Websites: Foundational web security practices relevant to the web development and cybersecurity interests of Muhammad."
+  },
+  {
+    "route": "/deployment-and-maintenance-guide.html",
+    "title": "Static Website Deployment & Maintenance | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "A static website deployment checklist covering publish directories, redirects, response headers, verification, backups and safe maintenance workflows."
+  },
+  {
+    "route": "/personal-branding-and-online-identity.html",
+    "title": "Personal Branding & Online Identity | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Guidance for keeping a professional online identity consistent across a portfolio, project pages and public profiles without fabricating credentials or social proof."
+  },
+  {
+    "route": "/content-strategy-and-search-intent.html",
+    "title": "Content Strategy & Search Intent | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Learn to plan useful website content around reader questions, distinct search intent, editorial priorities and content maintenance without publishing repetitive SEO pages."
+  },
+  {
+    "route": "/on-page-seo-guide.html",
+    "title": "On-Page SEO for Small Websites | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "A practical on-page SEO guide covering titles, headings, useful content, internal links, image alternatives and canonical URLs for small websites."
+  },
+  {
+    "route": "/web-performance-and-ux-guide.html",
+    "title": "Web Performance & User Experience Guide | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Practical guidance for improving website speed and usability through image sizing, font loading, layout stability, responsive testing and accessible interactions."
+  },
+  {
+    "route": "/blog.html",
+    "title": "Technology Articles & Practical Guides | Mr Bakhtawar",
+    "family": "library",
+    "description": "Articles & Guides by Bakhtawar Khan (MBK): A personal journal about the person behind the projects, the ideas behind each platform and the lessons."
+  },
+  {
+    "route": "/book-a-call.html",
+    "title": "Discuss a Project with Bakhtawar Khan | Mr Bakhtawar",
+    "family": "contact",
+    "description": "Book a Call from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/case-studies.html",
+    "title": "Project Notes & Case Studies | Mr Bakhtawar",
+    "family": "projects",
+    "description": "Explore web projects and practical work by Mr. Bakhtawar, founder of MBK Global, including digital experiences, development experiments and technology builds."
+  },
+  {
+    "route": "/changelog.html",
+    "title": "Portfolio Changelog & Website Updates | Mr Bakhtawar",
+    "family": "directory",
+    "description": "Website Changelog from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/contact.html",
+    "title": "Contact Bakhtawar Khan | Mr Bakhtawar",
+    "family": "contact",
+    "description": "Contact Bakhtawar Khan (MBK) from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/cybersecurity.html",
+    "title": "Web Security Review & Practices | Mr Bakhtawar",
+    "family": "service",
+    "description": "Web Security Practices & Review from Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and."
+  },
+  {
+    "route": "/delivered-project.html",
+    "title": "Project Process, Review & Delivery | Mr Bakhtawar",
+    "family": "directory",
+    "description": "Project Process & Delivery from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/digital-branding.html",
+    "title": "Digital Branding & Portfolio Design | Mr Bakhtawar",
+    "family": "service",
+    "description": "Digital Branding & Portfolio Presence from Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and."
+  },
+  {
+    "route": "/faq.html",
+    "title": "Project & Service Questions Answered | Mr Bakhtawar",
+    "family": "faq",
+    "description": "FAQs: A practical guide to projects, services, timelines and working together. Find what you need, then let's make your next idea happen. By Mr. Bakhtawar."
+  },
+  {
+    "route": "/gallery.html",
+    "title": "Bakhtawar Khan Photos & Portrait Gallery | Mr Bakhtawar",
+    "family": "gallery",
+    "description": "Browse owner-supplied photos and portraits of Bakhtawar Khan, known as Mr Bakhtawar, alongside his personal digital portfolio and MBK Global projects."
+  },
+  {
+    "route": "/generative-search-entity-clarity.html",
+    "title": "Personal Brand Entity Clarity for AI Search | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Explain how a person, public brand, website and projects connect. A practical guide to consistent names, factual bios and careful identity links."
+  },
+  {
+    "route": "/hire-me.html",
+    "title": "Hire Bakhtawar Khan | Web, API & Automation Projects",
+    "family": "service",
+    "description": "Start a website, application or automation enquiry with Bakhtawar Khan. Prepare a project brief and review collaboration options."
+  },
+  {
+    "route": "/muhammad-bakhtawar-khan-digital-portfolio.html",
+    "title": "Bakhtawar Khan's Digital Practice | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Explore the digital portfolio of Bakhtawar Khan, including selected technology projects, web development interests and MBK Global work."
+  },
+  {
+    "route": "/news.html",
+    "title": "Project Updates & Digital Technology Notes | Mr Bakhtawar",
+    "family": "directory",
+    "description": "40 SEO, AEO & GEO Notes and Updates from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/official-links.html",
+    "title": "Official Website & Profile Links | Mr Bakhtawar",
+    "family": "directory",
+    "description": "Find the official website and public project links associated with Bakhtawar Khan and MBK Global."
+  },
+  {
+    "route": "/privacy-policy.html",
+    "title": "Portfolio Privacy Policy | Mr Bakhtawar",
+    "family": "directory",
+    "description": "Privacy Policy from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/projects.html",
+    "title": "Web Projects by Bakhtawar Khan | Mr Bakhtawar",
+    "family": "projects",
+    "description": "Explore selected web, API and digital projects associated with MBK Global, with project descriptions and links where available."
+  },
+  {
+    "route": "/resources.html",
+    "title": "Web Development & API Learning Resources | Mr Bakhtawar",
+    "family": "library",
+    "description": "Search official developer documentation and useful references for React, APIs, AI chatbots, WhatsApp, Telegram, security, SEO and deployment."
+  },
+  {
+    "route": "/resume.html",
+    "title": "Bakhtawar Khan — Skills & Resume | Mr Bakhtawar",
+    "family": "profile",
+    "description": "Resume / CV from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch."
+  },
+  {
+    "route": "/seo-aeo-geo-for-personal-brands.html",
+    "title": "SEO, AEO & GEO for Personal Brands | Mr Bakhtawar",
+    "family": "lesson",
+    "description": "Understand SEO, answer-focused content and AI search for personal portfolios. Build clear identity and useful evidence without promising rankings or citations."
+  },
+  {
+    "route": "/services.html",
+    "title": "Web Development & Digital Services | Mr Bakhtawar",
+    "family": "service",
+    "description": "Explore scoped web development, React interfaces, API integration, chatbot discovery, automation, technical SEO and authorized code review with Bakhtawar Khan."
+  },
+  {
+    "route": "/social.html",
+    "title": "Bakhtawar Khan's Public Profiles | Mr Bakhtawar",
+    "family": "directory",
+    "description": "Find the official website, portfolio, projects and social profiles for Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global."
+  },
+  {
+    "route": "/technical-seo.html",
+    "title": "Technical SEO Services | Mr Bakhtawar",
+    "family": "service",
+    "description": "Technical SEO & Search Visibility from Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and."
+  },
+  {
+    "route": "/web-development.html",
+    "title": "Website Development Services | Bakhtawar Khan",
+    "family": "service",
+    "description": "Web Development Services from Mr. Bakhtawar (Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and contact options."
+  },
+  {
+    "route": "/ai-chatbot-development.html",
+    "title": "AI Chatbot Development | Bakhtawar Khan",
+    "description": "Knowledge-based answers, guided conversations and API-connected assistance, scoped around your content, users and review requirements.",
+    "family": "service"
+  },
+  {
+    "route": "/whatsapp-chatbot-development.html",
+    "title": "WhatsApp Chatbot Development | Bakhtawar Khan",
+    "description": "Plan business enquiries, FAQs, lead collection and support handoff using supported WhatsApp Business APIs and a permission-based messaging approach.",
+    "family": "service"
+  },
+  {
+    "route": "/telegram-bot-development.html",
+    "title": "Telegram Bot Development | Bakhtawar Khan",
+    "description": "Explore command-driven bots, opt-in notifications and structured workflows that connect Telegram with suitable external services.",
+    "family": "service"
+  },
+  {
+    "route": "/social-media-automation.html",
+    "title": "Social Media Automation | Bakhtawar Khan",
+    "description": "Plan supported enquiry routing, lead organization and response workflows without promising access that a platform does not provide.",
+    "family": "service"
+  },
+  {
+    "route": "/ai-chatbots-explained.html",
+    "title": "AI Chatbots Explained: Uses & Limits | Bakhtawar Khan",
+    "description": "A practical guide to conversational models, approved knowledge, tool integrations and the limits of automated answers.",
+    "family": "lesson"
+  },
+  {
+    "route": "/whatsapp-business-chatbot-guide.html",
+    "title": "WhatsApp Business Chatbot Planning Guide | Bakhtawar Khan",
+    "description": "Plan a supported WhatsApp enquiry flow with clear consent, human handoff and realistic provider dependencies.",
+    "family": "lesson"
+  },
+  {
+    "route": "/telegram-bot-workflow-guide.html",
+    "title": "Telegram Bot Commands & Workflow Guide | Bakhtawar Khan",
+    "description": "Understand commands, update delivery, permissions and reliable integrations before building a Telegram workflow.",
+    "family": "lesson"
+  },
+  {
+    "route": "/react-api-interface-design.html",
+    "title": "React Interfaces for Real API States | Bakhtawar Khan",
+    "description": "A practical guide to loading, empty, error and stale-data states in API-connected React interfaces.",
+    "family": "lesson"
+  }
+]

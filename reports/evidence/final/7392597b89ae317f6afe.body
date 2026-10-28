@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mr. Bakhtawar Portfolio | Bakhtawar Khan — MBK Global</title>
+    <!-- Description, favicon, OG title/description/image and Twitter card/image
+         are emitted once by the site configuration, including for crawlers. -->
+    <link rel="canonical" href="https://mr-bakhtawar.netlify.app/" />
+    <meta name="author" content="Bakhtawar Khan" />
+    <meta name="theme-color" content="#244d3d" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Mr. Bakhtawar Portfolio" />
+    <meta property="og:url" content="https://mr-bakhtawar.netlify.app/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Mr. Bakhtawar Portfolio — Bakhtawar Khan. Personal Digital Portfolio · MBK Global." />
+    <meta name="twitter:title" content="Mr. Bakhtawar Portfolio | Bakhtawar Khan" />
+    <meta name="twitter:description" content="Explore the professional portfolio, projects, services, and digital solutions of Bakhtawar Khan." />
+    <meta name="twitter:image:alt" content="Mr. Bakhtawar Portfolio — Bakhtawar Khan. Personal Digital Portfolio · MBK Global." />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="apple-touch-icon" href="/assets/images/portfolio-icon-180.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/css/academy.css" />
+    <link rel="stylesheet" href="/assets/css/portfolio.css" />
+    <link rel="stylesheet" href="/assets/css/master.css" />
+    <link rel="stylesheet" href="/assets/css/identity.css" />
+    <script>
+      try {
+        document.documentElement.dataset.theme = localStorage.getItem("portfolio-theme") || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      } catch {}
+    </script>
+    <script type="application/ld+json">
+      {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://mr-bakhtawar.netlify.app/#website","name":"Mr. Bakhtawar Portfolio","url":"https://mr-bakhtawar.netlify.app/","publisher":{"@id":"https://mr-bakhtawar.netlify.app/#person"}},{"@type":"Person","@id":"https://mr-bakhtawar.netlify.app/#person","name":"Bakhtawar Khan","url":"https://mr-bakhtawar.netlify.app/about.html","jobTitle":"Founder of MBK Global","worksFor":{"@type":"Organization","name":"MBK Global"}}]}
+    </script>
+    
+    <meta name="description" content="Explore Bakhtawar Khan’s professional digital portfolio, web development projects, services, technical skills, case studies, and creative work with MBK Global.">
+    <link rel="icon" href="/favicon.svg">
+    <meta property="og:title" content="Mr. Bakhtawar Portfolio | Bakhtawar Khan">
+    <meta property="og:description" content="Explore Bakhtawar Khan’s professional digital portfolio, web development projects, services, technical skills, case studies, and creative work with MBK Global.">
+    <meta property="og:image" content="https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png">
+    <script type="module" crossorigin src="/assets/index-4btFyFdO.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-qBdk_hFA.css">
+  </head>
+  <body>
+    
+    <div id="root"></div>
+    <script defer src="/assets/js/portfolio.js"></script>
+    
+  </body>
+</html>

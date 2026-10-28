@@ -1,0 +1,338 @@
+[
+  {
+    "url": "https://html.duckduckgo.com/html/?q=Mr+Bakhtawar",
+    "collected_at": "2026-10-28T22:30:15.934406+00:00",
+    "status": 202,
+    "location": "",
+    "content_type": "text/html; charset=UTF-8",
+    "error": "",
+    "file": "research/evidence/e56438a05a4db9d1ce3d.body",
+    "x_robots_tag": "noindex",
+    "cache_control": "",
+    "page": {
+      "title": "\n        DuckDuckGo\n    ",
+      "description": "",
+      "canonical": "https://duckduckgo.com/",
+      "robots": "",
+      "h1": [],
+      "h2": [],
+      "schemas": [],
+      "schema_errors": [],
+      "links": [
+        "/html/"
+      ],
+      "images": [
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-8f62c4effd71896e698e08c0a6e9f706",
+          "src": "../assets/anomaly/images/challenge/8f62c4effd71896e698e08c0a6e9f706.jpg",
+          "data-id": "8f62c4effd71896e698e08c0a6e9f706.jpg",
+          "data-testid": "anomaly-modal-image-0"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-a45da2321d3bf6ff2fd420afa8b6a0ed",
+          "src": "../assets/anomaly/images/challenge/a45da2321d3bf6ff2fd420afa8b6a0ed.jpg",
+          "data-id": "a45da2321d3bf6ff2fd420afa8b6a0ed.jpg",
+          "data-testid": "anomaly-modal-image-1"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-4923621cb563c298f847b6d1ead40d9b",
+          "src": "../assets/anomaly/images/challenge/4923621cb563c298f847b6d1ead40d9b.jpg",
+          "data-id": "4923621cb563c298f847b6d1ead40d9b.jpg",
+          "data-testid": "anomaly-modal-image-2"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-40f1f4ff86cebbb8e2d9a570eba368b6",
+          "src": "../assets/anomaly/images/challenge/40f1f4ff86cebbb8e2d9a570eba368b6.jpg",
+          "data-id": "40f1f4ff86cebbb8e2d9a570eba368b6.jpg",
+          "data-testid": "anomaly-modal-image-3"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-1b4940d754398e54389e010ea043e7d6",
+          "src": "../assets/anomaly/images/challenge/1b4940d754398e54389e010ea043e7d6.jpg",
+          "data-id": "1b4940d754398e54389e010ea043e7d6.jpg",
+          "data-testid": "anomaly-modal-image-4"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-35cc3e263c8eec596bf09e1254441e69",
+          "src": "../assets/anomaly/images/challenge/35cc3e263c8eec596bf09e1254441e69.jpg",
+          "data-id": "35cc3e263c8eec596bf09e1254441e69.jpg",
+          "data-testid": "anomaly-modal-image-5"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-12d8c2a8c346263af4551d5b9101e952",
+          "src": "../assets/anomaly/images/challenge/12d8c2a8c346263af4551d5b9101e952.jpg",
+          "data-id": "12d8c2a8c346263af4551d5b9101e952.jpg",
+          "data-testid": "anomaly-modal-image-6"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-d75e4dfca15febad527d0ecda0f14c23",
+          "src": "../assets/anomaly/images/challenge/d75e4dfca15febad527d0ecda0f14c23.jpg",
+          "data-id": "d75e4dfca15febad527d0ecda0f14c23.jpg",
+          "data-testid": "anomaly-modal-image-7"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-cec50d923f1504ed24d6a4507fa1baaf",
+          "src": "../assets/anomaly/images/challenge/cec50d923f1504ed24d6a4507fa1baaf.jpg",
+          "data-id": "cec50d923f1504ed24d6a4507fa1baaf.jpg",
+          "data-testid": "anomaly-modal-image-8"
+        },
+        {
+          "src": "//duckduckgo.com/t/tqadb?7691124&s=lite&gk=d4cd0dabcf4caa22ad92fab40844c786&i=-1&e=0&c=dadb&r=use&iadb=0&o=aYaXylt2jZUBuYKQsVQE85NVYT0LFEWyJyR96CVLKH%2BhvcunIemA8TdAZ0RXAXwr%0A&p=8f62c4effd71896e698e08c0a6e9f706-a45da2321d3bf6ff2fd420afa8b6a0ed-4923621cb563c298f847b6d1ead40d9b-40f1f4ff86cebbb8e2d9a570eba368b6-1b4940d754398e54389e010ea043e7d6-35cc3e263c8eec596bf09e1254441e69-12d8c2a8c346263af4551d5b9101e952-d75e4dfca15febad527d0ecda0f14c23-cec50d923f1504ed24d6a4507fa1baaf&sc=1&cc=botnet"
+        }
+      ],
+      "words": 0,
+      "main_text": "",
+      "metadata_duplicates": [],
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1",
+        "referrer": "origin"
+      },
+      "refresh": ""
+    },
+    "query": "Mr Bakhtawar",
+    "kind": "serp",
+    "result_candidates": []
+  },
+  {
+    "url": "https://html.duckduckgo.com/html/?q=Bakhtawar+Khan+portfolio",
+    "collected_at": "2026-10-28T22:30:15.934406+00:00",
+    "status": 202,
+    "location": "",
+    "content_type": "text/html; charset=UTF-8",
+    "error": "",
+    "file": "research/evidence/491afb2eb13eac47ec61.body",
+    "x_robots_tag": "noindex",
+    "cache_control": "",
+    "page": {
+      "title": "\n        DuckDuckGo\n    ",
+      "description": "",
+      "canonical": "https://duckduckgo.com/",
+      "robots": "",
+      "h1": [],
+      "h2": [],
+      "schemas": [],
+      "schema_errors": [],
+      "links": [
+        "/html/"
+      ],
+      "images": [
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-6f8aac0f44b3f81e55d69acdb5b30ce1",
+          "src": "../assets/anomaly/images/challenge/6f8aac0f44b3f81e55d69acdb5b30ce1.jpg",
+          "data-id": "6f8aac0f44b3f81e55d69acdb5b30ce1.jpg",
+          "data-testid": "anomaly-modal-image-0"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-801111929e79430c03b4716a35a01a61",
+          "src": "../assets/anomaly/images/challenge/801111929e79430c03b4716a35a01a61.jpg",
+          "data-id": "801111929e79430c03b4716a35a01a61.jpg",
+          "data-testid": "anomaly-modal-image-1"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-80fe1ed79753ab6296c01017536bff69",
+          "src": "../assets/anomaly/images/challenge/80fe1ed79753ab6296c01017536bff69.jpg",
+          "data-id": "80fe1ed79753ab6296c01017536bff69.jpg",
+          "data-testid": "anomaly-modal-image-2"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-e2d99a9d0de3af04b25030dd92dd87de",
+          "src": "../assets/anomaly/images/challenge/e2d99a9d0de3af04b25030dd92dd87de.jpg",
+          "data-id": "e2d99a9d0de3af04b25030dd92dd87de.jpg",
+          "data-testid": "anomaly-modal-image-3"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-eac6f557f5da83a19c2729e21a9b0ea5",
+          "src": "../assets/anomaly/images/challenge/eac6f557f5da83a19c2729e21a9b0ea5.jpg",
+          "data-id": "eac6f557f5da83a19c2729e21a9b0ea5.jpg",
+          "data-testid": "anomaly-modal-image-4"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-c94c5a99095c2864785429ecefd23668",
+          "src": "../assets/anomaly/images/challenge/c94c5a99095c2864785429ecefd23668.jpg",
+          "data-id": "c94c5a99095c2864785429ecefd23668.jpg",
+          "data-testid": "anomaly-modal-image-5"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-d43c874aa8139cc89d89030b110188cc",
+          "src": "../assets/anomaly/images/challenge/d43c874aa8139cc89d89030b110188cc.jpg",
+          "data-id": "d43c874aa8139cc89d89030b110188cc.jpg",
+          "data-testid": "anomaly-modal-image-6"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-f7d787339a027295513c6ac0c9dce579",
+          "src": "../assets/anomaly/images/challenge/f7d787339a027295513c6ac0c9dce579.jpg",
+          "data-id": "f7d787339a027295513c6ac0c9dce579.jpg",
+          "data-testid": "anomaly-modal-image-7"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-b94468c984da5fa9449966d0374acbb0",
+          "src": "../assets/anomaly/images/challenge/b94468c984da5fa9449966d0374acbb0.jpg",
+          "data-id": "b94468c984da5fa9449966d0374acbb0.jpg",
+          "data-testid": "anomaly-modal-image-8"
+        },
+        {
+          "src": "//duckduckgo.com/t/tqadb?5543238&s=lite&sc=1&c=dadb&r=use&gk=d4cd0dabcf4caa22ad92fab40844c786&iadb=0&cc=botnet&e=0&p=6f8aac0f44b3f81e55d69acdb5b30ce1-801111929e79430c03b4716a35a01a61-80fe1ed79753ab6296c01017536bff69-e2d99a9d0de3af04b25030dd92dd87de-eac6f557f5da83a19c2729e21a9b0ea5-c94c5a99095c2864785429ecefd23668-d43c874aa8139cc89d89030b110188cc-f7d787339a027295513c6ac0c9dce579-b94468c984da5fa9449966d0374acbb0&o=aYaXylt2jZUBuYKQsVQE85NVYT0LFEWyJyR96CVLKH%2BhvcunIemA8TdAZ0RXAXwr%0A&i=-1"
+        }
+      ],
+      "words": 0,
+      "main_text": "",
+      "metadata_duplicates": [],
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1",
+        "referrer": "origin"
+      },
+      "refresh": ""
+    },
+    "query": "Bakhtawar Khan portfolio",
+    "kind": "serp",
+    "result_candidates": []
+  },
+  {
+    "url": "https://html.duckduckgo.com/html/?q=web+developer+Karachi+portfolio",
+    "collected_at": "2026-10-28T22:30:15.934406+00:00",
+    "status": 202,
+    "location": "",
+    "content_type": "text/html; charset=UTF-8",
+    "error": "",
+    "file": "research/evidence/46136c91e9ebf0caa9bd.body",
+    "x_robots_tag": "noindex",
+    "cache_control": "",
+    "page": {
+      "title": "\n        DuckDuckGo\n    ",
+      "description": "",
+      "canonical": "https://duckduckgo.com/",
+      "robots": "",
+      "h1": [],
+      "h2": [],
+      "schemas": [],
+      "schema_errors": [],
+      "links": [
+        "/html/"
+      ],
+      "images": [
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-6f8aac0f44b3f81e55d69acdb5b30ce1",
+          "src": "../assets/anomaly/images/challenge/6f8aac0f44b3f81e55d69acdb5b30ce1.jpg",
+          "data-id": "6f8aac0f44b3f81e55d69acdb5b30ce1.jpg",
+          "data-testid": "anomaly-modal-image-0"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-801111929e79430c03b4716a35a01a61",
+          "src": "../assets/anomaly/images/challenge/801111929e79430c03b4716a35a01a61.jpg",
+          "data-id": "801111929e79430c03b4716a35a01a61.jpg",
+          "data-testid": "anomaly-modal-image-1"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-80fe1ed79753ab6296c01017536bff69",
+          "src": "../assets/anomaly/images/challenge/80fe1ed79753ab6296c01017536bff69.jpg",
+          "data-id": "80fe1ed79753ab6296c01017536bff69.jpg",
+          "data-testid": "anomaly-modal-image-2"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-e2d99a9d0de3af04b25030dd92dd87de",
+          "src": "../assets/anomaly/images/challenge/e2d99a9d0de3af04b25030dd92dd87de.jpg",
+          "data-id": "e2d99a9d0de3af04b25030dd92dd87de.jpg",
+          "data-testid": "anomaly-modal-image-3"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-eac6f557f5da83a19c2729e21a9b0ea5",
+          "src": "../assets/anomaly/images/challenge/eac6f557f5da83a19c2729e21a9b0ea5.jpg",
+          "data-id": "eac6f557f5da83a19c2729e21a9b0ea5.jpg",
+          "data-testid": "anomaly-modal-image-4"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-c94c5a99095c2864785429ecefd23668",
+          "src": "../assets/anomaly/images/challenge/c94c5a99095c2864785429ecefd23668.jpg",
+          "data-id": "c94c5a99095c2864785429ecefd23668.jpg",
+          "data-testid": "anomaly-modal-image-5"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-d43c874aa8139cc89d89030b110188cc",
+          "src": "../assets/anomaly/images/challenge/d43c874aa8139cc89d89030b110188cc.jpg",
+          "data-id": "d43c874aa8139cc89d89030b110188cc.jpg",
+          "data-testid": "anomaly-modal-image-6"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-f7d787339a027295513c6ac0c9dce579",
+          "src": "../assets/anomaly/images/challenge/f7d787339a027295513c6ac0c9dce579.jpg",
+          "data-id": "f7d787339a027295513c6ac0c9dce579.jpg",
+          "data-testid": "anomaly-modal-image-7"
+        },
+        {
+          "class": "anomaly-modal__image",
+          "alt": " ",
+          "id": "image-b94468c984da5fa9449966d0374acbb0",
+          "src": "../assets/anomaly/images/challenge/b94468c984da5fa9449966d0374acbb0.jpg",
+          "data-id": "b94468c984da5fa9449966d0374acbb0.jpg",
+          "data-testid": "anomaly-modal-image-8"
+        },
+        {
+          "src": "//duckduckgo.com/t/tqadb?4290881&s=lite&i=-1&o=ofvjxvx7%2BSoOkkhZTj6APjC2yasztqxCwzGiK645nR%2F7zplvtmsSkmNlk8tSwGqv%0A&e=0&p=6f8aac0f44b3f81e55d69acdb5b30ce1-801111929e79430c03b4716a35a01a61-80fe1ed79753ab6296c01017536bff69-e2d99a9d0de3af04b25030dd92dd87de-eac6f557f5da83a19c2729e21a9b0ea5-c94c5a99095c2864785429ecefd23668-d43c874aa8139cc89d89030b110188cc-f7d787339a027295513c6ac0c9dce579-b94468c984da5fa9449966d0374acbb0&cc=botnet&iadb=0&r=use&gk=d4cd0dabcf4caa22ad92fab40844c786&sc=1&c=dadb"
+        }
+      ],
+      "words": 0,
+      "main_text": "",
+      "metadata_duplicates": [],
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1",
+        "referrer": "origin"
+      },
+      "refresh": ""
+    },
+    "query": "web developer Karachi portfolio",
+    "kind": "serp",
+    "result_candidates": []
+  }
+]

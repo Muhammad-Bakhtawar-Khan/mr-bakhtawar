@@ -1,0 +1,772 @@
+{
+  "/assets/images/gallery/archive-1.webp": {
+    "src": "/assets/images/optimized/archive-1-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-1-480.webp 480w, /assets/images/optimized/archive-1-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-1-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-1-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 108814
+  },
+  "/assets/images/gallery/archive-10.webp": {
+    "src": "/assets/images/optimized/archive-10-960.webp",
+    "width": 960,
+    "height": 640,
+    "srcset": "/assets/images/optimized/archive-10-480.webp 480w, /assets/images/optimized/archive-10-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-10-480.webp",
+        "width": 480,
+        "height": 320
+      },
+      {
+        "src": "/assets/images/optimized/archive-10-960.webp",
+        "width": 960,
+        "height": 640
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 667,
+    "original_bytes": 73952
+  },
+  "/assets/images/gallery/archive-11.webp": {
+    "src": "/assets/images/optimized/archive-11-720.webp",
+    "width": 720,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-11-480.webp 480w, /assets/images/optimized/archive-11-720.webp 720w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-11-480.webp",
+        "width": 480,
+        "height": 853
+      },
+      {
+        "src": "/assets/images/optimized/archive-11-720.webp",
+        "width": 720,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 720,
+    "original_height": 1280,
+    "original_bytes": 72688
+  },
+  "/assets/images/gallery/archive-12.webp": {
+    "src": "/assets/images/optimized/archive-12-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-12-480.webp 480w, /assets/images/optimized/archive-12-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-12-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-12-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 111514
+  },
+  "/assets/images/gallery/archive-13.webp": {
+    "src": "/assets/images/optimized/archive-13-933.webp",
+    "width": 933,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-13-480.webp 480w, /assets/images/optimized/archive-13-933.webp 933w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-13-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/archive-13-933.webp",
+        "width": 933,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 933,
+    "original_height": 1400,
+    "original_bytes": 83648
+  },
+  "/assets/images/gallery/archive-14.webp": {
+    "src": "/assets/images/optimized/archive-14-960.webp",
+    "width": 960,
+    "height": 1119,
+    "srcset": "/assets/images/optimized/archive-14-480.webp 480w, /assets/images/optimized/archive-14-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-14-480.webp",
+        "width": 480,
+        "height": 560
+      },
+      {
+        "src": "/assets/images/optimized/archive-14-960.webp",
+        "width": 960,
+        "height": 1119
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1166,
+    "original_bytes": 171256
+  },
+  "/assets/images/gallery/archive-15.webp": {
+    "src": "/assets/images/optimized/archive-15-960.webp",
+    "width": 960,
+    "height": 1318,
+    "srcset": "/assets/images/optimized/archive-15-480.webp 480w, /assets/images/optimized/archive-15-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-15-480.webp",
+        "width": 480,
+        "height": 659
+      },
+      {
+        "src": "/assets/images/optimized/archive-15-960.webp",
+        "width": 960,
+        "height": 1318
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1373,
+    "original_bytes": 364612
+  },
+  "/assets/images/gallery/archive-16.webp": {
+    "src": "/assets/images/optimized/archive-16-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-16-480.webp 480w, /assets/images/optimized/archive-16-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-16-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-16-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 153680
+  },
+  "/assets/images/gallery/archive-17.webp": {
+    "src": "/assets/images/optimized/archive-17-720.webp",
+    "width": 720,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-17-480.webp 480w, /assets/images/optimized/archive-17-720.webp 720w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-17-480.webp",
+        "width": 480,
+        "height": 853
+      },
+      {
+        "src": "/assets/images/optimized/archive-17-720.webp",
+        "width": 720,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 720,
+    "original_height": 1280,
+    "original_bytes": 145194
+  },
+  "/assets/images/gallery/archive-18.webp": {
+    "src": "/assets/images/optimized/archive-18-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-18-480.webp 480w, /assets/images/optimized/archive-18-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-18-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-18-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 122682
+  },
+  "/assets/images/gallery/archive-19.webp": {
+    "src": "/assets/images/optimized/archive-19-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-19-480.webp 480w, /assets/images/optimized/archive-19-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-19-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-19-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 165434
+  },
+  "/assets/images/gallery/archive-2.webp": {
+    "src": "/assets/images/optimized/archive-2-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-2-480.webp 480w, /assets/images/optimized/archive-2-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-2-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-2-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 199098
+  },
+  "/assets/images/gallery/archive-20.webp": {
+    "src": "/assets/images/optimized/archive-20-720.webp",
+    "width": 720,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-20-480.webp 480w, /assets/images/optimized/archive-20-720.webp 720w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-20-480.webp",
+        "width": 480,
+        "height": 853
+      },
+      {
+        "src": "/assets/images/optimized/archive-20-720.webp",
+        "width": 720,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 720,
+    "original_height": 1280,
+    "original_bytes": 127970
+  },
+  "/assets/images/gallery/archive-21.webp": {
+    "src": "/assets/images/optimized/archive-21-763.webp",
+    "width": 763,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-21-480.webp 480w, /assets/images/optimized/archive-21-763.webp 763w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-21-480.webp",
+        "width": 480,
+        "height": 881
+      },
+      {
+        "src": "/assets/images/optimized/archive-21-763.webp",
+        "width": 763,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 763,
+    "original_height": 1400,
+    "original_bytes": 125180
+  },
+  "/assets/images/gallery/archive-22.webp": {
+    "src": "/assets/images/optimized/archive-22-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-22-480.webp 480w, /assets/images/optimized/archive-22-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-22-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-22-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 282730
+  },
+  "/assets/images/gallery/archive-23.webp": {
+    "src": "/assets/images/optimized/archive-23-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-23-480.webp 480w, /assets/images/optimized/archive-23-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-23-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-23-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 188922
+  },
+  "/assets/images/gallery/archive-3.webp": {
+    "src": "/assets/images/optimized/archive-3-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-3-480.webp 480w, /assets/images/optimized/archive-3-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-3-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-3-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 242624
+  },
+  "/assets/images/gallery/archive-4.webp": {
+    "src": "/assets/images/optimized/archive-4-787.webp",
+    "width": 787,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-4-480.webp 480w, /assets/images/optimized/archive-4-787.webp 787w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-4-480.webp",
+        "width": 480,
+        "height": 854
+      },
+      {
+        "src": "/assets/images/optimized/archive-4-787.webp",
+        "width": 787,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 787,
+    "original_height": 1400,
+    "original_bytes": 73396
+  },
+  "/assets/images/gallery/archive-5.webp": {
+    "src": "/assets/images/optimized/archive-5-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/archive-5-480.webp 480w, /assets/images/optimized/archive-5-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-5-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/archive-5-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1333,
+    "original_bytes": 262214
+  },
+  "/assets/images/gallery/archive-6.webp": {
+    "src": "/assets/images/optimized/archive-6-933.webp",
+    "width": 933,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-6-480.webp 480w, /assets/images/optimized/archive-6-933.webp 933w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-6-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/archive-6-933.webp",
+        "width": 933,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 933,
+    "original_height": 1400,
+    "original_bytes": 85818
+  },
+  "/assets/images/gallery/archive-7.webp": {
+    "src": "/assets/images/optimized/archive-7-933.webp",
+    "width": 933,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-7-480.webp 480w, /assets/images/optimized/archive-7-933.webp 933w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-7-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/archive-7-933.webp",
+        "width": 933,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 933,
+    "original_height": 1400,
+    "original_bytes": 98682
+  },
+  "/assets/images/gallery/archive-8.webp": {
+    "src": "/assets/images/optimized/archive-8-933.webp",
+    "width": 933,
+    "height": 1400,
+    "srcset": "/assets/images/optimized/archive-8-480.webp 480w, /assets/images/optimized/archive-8-933.webp 933w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-8-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/archive-8-933.webp",
+        "width": 933,
+        "height": 1400
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 933,
+    "original_height": 1400,
+    "original_bytes": 52692
+  },
+  "/assets/images/gallery/archive-9.webp": {
+    "src": "/assets/images/optimized/archive-9-960.webp",
+    "width": 960,
+    "height": 1319,
+    "srcset": "/assets/images/optimized/archive-9-480.webp 480w, /assets/images/optimized/archive-9-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/archive-9-480.webp",
+        "width": 480,
+        "height": 660
+      },
+      {
+        "src": "/assets/images/optimized/archive-9-960.webp",
+        "width": 960,
+        "height": 1319
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 1000,
+    "original_height": 1374,
+    "original_bytes": 80116
+  },
+  "/assets/images/gallery/bakhtawar-gallery-12.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-12-900.webp",
+    "width": 900,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-12-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-12-900.webp 900w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-12-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-12-900.webp",
+        "width": 900,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 900,
+    "original_height": 1200,
+    "original_bytes": 94948
+  },
+  "/assets/images/gallery/bakhtawar-gallery-17.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-17-675.webp",
+    "width": 675,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-17-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-17-675.webp 675w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-17-480.webp",
+        "width": 480,
+        "height": 853
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-17-675.webp",
+        "width": 675,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 675,
+    "original_height": 1200,
+    "original_bytes": 125836
+  },
+  "/assets/images/gallery/bakhtawar-gallery-21.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-21-654.webp",
+    "width": 654,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-21-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-21-654.webp 654w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-21-480.webp",
+        "width": 480,
+        "height": 881
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-21-654.webp",
+        "width": 654,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 654,
+    "original_height": 1200,
+    "original_bytes": 101526
+  },
+  "/assets/images/gallery/bakhtawar-gallery-23.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-23-900.webp",
+    "width": 900,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-23-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-23-900.webp 900w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-23-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-23-900.webp",
+        "width": 900,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 900,
+    "original_height": 1200,
+    "original_bytes": 158944
+  },
+  "/assets/images/gallery/bakhtawar-gallery-7.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-7-800.webp",
+    "width": 800,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-7-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-7-800.webp 800w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-7-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-7-800.webp",
+        "width": 800,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 800,
+    "original_height": 1200,
+    "original_bytes": 79950
+  },
+  "/assets/images/gallery/bakhtawar-gallery-8.webp": {
+    "src": "/assets/images/optimized/bakhtawar-gallery-8-800.webp",
+    "width": 800,
+    "height": 1200,
+    "srcset": "/assets/images/optimized/bakhtawar-gallery-8-480.webp 480w, /assets/images/optimized/bakhtawar-gallery-8-800.webp 800w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-8-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-gallery-8-800.webp",
+        "width": 800,
+        "height": 1200
+      }
+    ],
+    "original_format": "WEBP",
+    "original_width": 800,
+    "original_height": 1200,
+    "original_bytes": 41678
+  },
+  "/assets/images/gallery/bakhtawar-grand-interior.jpg": {
+    "src": "/assets/images/optimized/bakhtawar-grand-interior-960.webp",
+    "width": 960,
+    "height": 1280,
+    "srcset": "/assets/images/optimized/bakhtawar-grand-interior-480.webp 480w, /assets/images/optimized/bakhtawar-grand-interior-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-grand-interior-480.webp",
+        "width": 480,
+        "height": 640
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-grand-interior-960.webp",
+        "width": 960,
+        "height": 1280
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 1152,
+    "original_height": 1536,
+    "original_bytes": 468681
+  },
+  "/assets/images/gallery/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated.jpg": {
+    "src": "/assets/images/optimized/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated-837.webp",
+    "width": 837,
+    "height": 1536,
+    "srcset": "/assets/images/optimized/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated-480.webp 480w, /assets/images/optimized/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated-837.webp 837w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated-480.webp",
+        "width": 480,
+        "height": 881
+      },
+      {
+        "src": "/assets/images/optimized/muhammad-bakhtawar-khan-mbk-founder-profile-navy-seated-837.webp",
+        "width": 837,
+        "height": 1536
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 837,
+    "original_height": 1536,
+    "original_bytes": 258831
+  },
+  "/assets/images/gallery/muhammad-bakhtawar-khan-mbk-global-founder-office-portrait.png": {
+    "src": "/assets/images/optimized/bakhtawar-office-portrait-960.webp",
+    "width": 960,
+    "height": 1440,
+    "srcset": "/assets/images/optimized/bakhtawar-office-portrait-480.webp 480w, /assets/images/optimized/bakhtawar-office-portrait-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-office-portrait-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-office-portrait-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 1024,
+    "original_height": 1536,
+    "original_bytes": 238756
+  },
+  "/assets/images/gallery/muhammad-bakhtawar-khan-mbk-professional-navy-portrait.webp": {
+    "src": "/assets/images/optimized/bakhtawar-seated-navy-portrait-960.webp",
+    "width": 960,
+    "height": 960,
+    "srcset": "/assets/images/optimized/bakhtawar-seated-navy-portrait-480.webp 480w, /assets/images/optimized/bakhtawar-seated-navy-portrait-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-seated-navy-portrait-480.webp",
+        "width": 480,
+        "height": 480
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-seated-navy-portrait-960.webp",
+        "width": 960,
+        "height": 960
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 1536,
+    "original_height": 1536,
+    "original_bytes": 284697
+  },
+  "/assets/images/gallery/muhammad-bakhtawar-khan-mbk-standing-professional-portrait.png": {
+    "src": "/assets/images/optimized/bakhtawar-standing-white-portrait-960.webp",
+    "width": 960,
+    "height": 1440,
+    "srcset": "/assets/images/optimized/bakhtawar-standing-white-portrait-480.webp 480w, /assets/images/optimized/bakhtawar-standing-white-portrait-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-standing-white-portrait-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-standing-white-portrait-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 1024,
+    "original_height": 1536,
+    "original_bytes": 213239
+  },
+  "/assets/images/gallery/muhammad-bakhtawar-khan-mbk-white-outfit-full-length-portrait.png": {
+    "src": "/assets/images/optimized/bakhtawar-white-outfit-portrait-960.webp",
+    "width": 960,
+    "height": 1440,
+    "srcset": "/assets/images/optimized/bakhtawar-white-outfit-portrait-480.webp 480w, /assets/images/optimized/bakhtawar-white-outfit-portrait-960.webp 960w",
+    "variants": [
+      {
+        "src": "/assets/images/optimized/bakhtawar-white-outfit-portrait-480.webp",
+        "width": 480,
+        "height": 720
+      },
+      {
+        "src": "/assets/images/optimized/bakhtawar-white-outfit-portrait-960.webp",
+        "width": 960,
+        "height": 1440
+      }
+    ],
+    "original_format": "JPEG",
+    "original_width": 1024,
+    "original_height": 1536,
+    "original_bytes": 249980
+  }
+}

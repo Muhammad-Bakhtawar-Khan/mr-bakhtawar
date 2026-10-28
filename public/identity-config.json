@@ -1,0 +1,116 @@
+{
+  "person": {
+    "name": "Bakhtawar Khan",
+    "alternateNames": [
+      "Mr Bakhtawar",
+      "Mr. Bakhtawar"
+    ],
+    "url": "https://mr-bakhtawar.netlify.app/",
+    "description": "Bakhtawar Khan, known as Mr Bakhtawar, is the founder of MBK Global. His portfolio presents independent web projects, practical AI and API interests, and digital services.",
+    "location": "Karachi, Pakistan",
+    "publicTitle": "Founder of MBK Global",
+    "titleNote": "Use Founder & CEO only after explicit owner confirmation; current update uses Founder to avoid an unconfirmed title.",
+    "email": "Bakhtawark085@gmail.com",
+    "whatsapp": "+92 320 0276941",
+    "whatsappUrl": "https://wa.me/923200276941",
+    "schemaSameAs": [
+      "https://github.com/Muhammad-Bakhtawar-Khan",
+      "https://dev.to/mbk_bakhtawar"
+    ]
+  },
+  "brand": {
+    "name": "MBK Global",
+    "url": "https://mr-bakhtawar.netlify.app/",
+    "description": "A digital technology and creative solutions brand focused on web development, digital experiences, AI-related solutions, API integration, SEO, digital branding and technology projects. Specific service scope should be confirmed before commercial claims are made.",
+    "founder": "Bakhtawar Khan",
+    "legalStatus": "Not asserted; no company registration or legal entity claim is made."
+  },
+  "profiles": [
+    {
+      "name": "About.me",
+      "url": "https://about.me/muhammadbakhtawar",
+      "source": "owner-provided",
+      "status": "included"
+    },
+    {
+      "name": "Linktree",
+      "url": "https://linktr.ee/bakhtawark085",
+      "source": "owner-provided",
+      "status": "included"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Muhammad-Bakhtawar-Khan",
+      "source": "existing portfolio/source context",
+      "status": "included; owner should recheck account ownership"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/mbk_bakhtawar",
+      "source": "previously supplied by owner",
+      "status": "included"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammad-bakhtawar-khan-43b02931b",
+      "source": "existing website and live brand page",
+      "status": "included; owner should recheck profile ownership"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/mbk_bakhtawar",
+      "source": "linked from live MBK Global website",
+      "status": "published link; owner should confirm profile ownership"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/share/1EAjQVA3Qv/",
+      "source": "linked from live MBK Global website",
+      "status": "share URL; owner should replace with stable profile URL if available"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/MBK_Bakhtawar",
+      "source": "linked from live MBK Global website",
+      "status": "published link; owner should confirm profile ownership"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com/mbk_bakhtawar/",
+      "source": "linked from live MBK Global website",
+      "status": "published link; owner should confirm profile ownership"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MBK Global",
+      "url": "https://mr-bakhtawar.netlify.app/",
+      "status": "live page inspected",
+      "role": "brand website"
+    },
+    {
+      "name": "MBK TV",
+      "url": "https://mbktv.vercel.app/",
+      "status": "live page inspected",
+      "role": "digital television discovery project"
+    },
+    {
+      "name": "MBK Markets",
+      "url": "https://mbkmarkets.vercel.app/",
+      "status": "URL opened; rendered content not readable in inspection",
+      "role": "market-data interface project; details need owner review"
+    },
+    {
+      "name": "MBK Downloader",
+      "url": "https://mbkdownloader.vercel.app/",
+      "status": "redirects to videodownloaderbymr-bakhtawar.netlify.app; destination not readable in inspection",
+      "role": "media utility; verify destination and compliance before promotion"
+    },
+    {
+      "name": "Noor-e-Quran",
+      "url": "https://noorquranbymbk.vercel.app/",
+      "status": "live page title inspected",
+      "role": "Quran-related resource project"
+    }
+  ]
+}

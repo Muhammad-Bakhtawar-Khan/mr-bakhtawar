@@ -1,0 +1,160 @@
+original_priority,original_category,platform,review_bucket,guidance
+P1,Professional identity,LinkedIn,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,About.me,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Linktree,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Gravatar,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,X,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Facebook Pages,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Professional identity,Instagram,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Professional identity,YouTube,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Pinterest,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Professional identity,TikTok,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Professional identity,Threads,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Mastodon,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Bluesky,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Reddit,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Professional identity,Quora,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Professional identity,Medium,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Substack,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Blogger,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,WordPress.com,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Professional identity,Tumblr,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Developer and technical profiles,GitHub,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,GitLab,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Bitbucket,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,CodePen,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Stack Overflow,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,DEV Community,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Hashnode,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,HackerNoon,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,freeCodeCamp,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Replit,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,CodeSandbox,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Glitch,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Hugging Face,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,Kaggle,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Developer and technical profiles,LeetCode,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Developer and technical profiles,HackerRank,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Developer and technical profiles,CodeProject,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Developer and technical profiles,SourceForge,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Developer and technical profiles,Product Hunt,Genuine professional profile,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P1,Developer and technical profiles,Indie Hackers,Community / open-source contribution,Earn links by genuinely helping; avoid promotional posting.
+P1,Design and portfolio,Behance,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,Dribbble,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,ArtStation,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,DeviantArt,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Flickr,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,500px,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Vimeo,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,Dailymotion,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Adobe Portfolio,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,Canva,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Crevado,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Cargo,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Wix,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Webflow,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Framer,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Carrd,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Squarespace,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P1,Design and portfolio,Read.cv,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,Polywork,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P1,Design and portfolio,Contra,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Publishing and articles,Ghost,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Write.as,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Telegra.ph,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Hashnode Blog,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,DEV Articles,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Medium Publications,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Substack Newsletter,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,WordPress Blog,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Blogger Blog,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Tumblr Blog,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Issuu,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,SlideShare,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Speaker Deck,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Scribd,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Calameo,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,FlipHTML5,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Publuu,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Publishing and articles,Notion public pages,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,Google Sites,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,Publishing and articles,GitHub Pages,Editorial opportunity,"Mostly self-publishing (usually nofollow); value is visibility, not link equity. Editorial = pitching real publications."
+P2,"Product, startup and company directories",Crunchbase,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",Wellfound,"Relevant, legitimate directory",
+P2,"Product, startup and company directories",F6S,"Relevant, legitimate directory",
+P2,"Product, startup and company directories",BetaList,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",AlternativeTo,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",SaaSHub,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",G2,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,"Product, startup and company directories",Capterra,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,"Product, startup and company directories",GetApp,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,"Product, startup and company directories",Trustpilot,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,"Product, startup and company directories",Clutch,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",GoodFirms,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",DesignRush,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",The Manifest,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",Sortlist,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",TechBehemoths,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",GoodFirms Developer Listing,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",EU-Startups,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",Startup Stash,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,"Product, startup and company directories",Product Hunt Launch,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Freelance and service marketplaces,Upwork,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Fiverr,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Freelancer,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,PeoplePerHour,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Guru,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Toptal,Genuine professional profile,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Freelance and service marketplaces,99designs,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,DesignCrowd,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Workana,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Malt,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Contra Services,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,Codeable,Genuine professional profile,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Freelance and service marketplaces,Gun.io,Genuine professional profile,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Freelance and service marketplaces,Arc,Genuine professional profile,Create only if actively maintained and the details match identity-config.json.
+P2,Freelance and service marketplaces,FlexJobs,Genuine professional profile,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Communities and knowledge sharing,Stack Exchange,Community / open-source contribution,
+P2,Communities and knowledge sharing,Super User,Community / open-source contribution,
+P2,Communities and knowledge sharing,Server Fault,Community / open-source contribution,
+P2,Communities and knowledge sharing,Ask Ubuntu,Community / open-source contribution,
+P2,Communities and knowledge sharing,Webmasters Stack Exchange,Community / open-source contribution,
+P2,Communities and knowledge sharing,Spiceworks Community,Community / open-source contribution,
+P2,Communities and knowledge sharing,Hashnode Community,Community / open-source contribution,
+P2,Communities and knowledge sharing,Hacker News,Community / open-source contribution,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Communities and knowledge sharing,Lobsters,Community / open-source contribution,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Communities and knowledge sharing,Indie Hackers Community,Community / open-source contribution,
+P2,Communities and knowledge sharing,Product Hunt Discussions,Community / open-source contribution,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Communities and knowledge sharing,GrowthHackers,Community / open-source contribution,"Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Communities and knowledge sharing,Warrior Forum,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Communities and knowledge sharing,Digital Point Forums,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Communities and knowledge sharing,Webflow Forum,Community / open-source contribution,
+P2,Pakistan and local business discovery,Google Business Profile,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Pakistan and local business discovery,Bing Places,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Pakistan and local business discovery,Apple Business Connect,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P2,Pakistan and local business discovery,OpenStreetMap,"Relevant, legitimate directory",
+P2,Pakistan and local business discovery,Pakistan Business Directory,"Relevant, legitimate directory",
+P2,Pakistan and local business discovery,Lookup.pk,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,BusinessList.pk,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Branches.pk,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Yellow Pages Pakistan,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Hamariweb Business Directory,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Kompass,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Hotfrog,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Manta,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Yelp,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P2,Pakistan and local business discovery,Foursquare,"Relevant, legitimate directory","Conditional: only with a real product, real clients or real location, and following platform rules. Do not self-review."
+P3,"Bookmarks, creator pages and media",Pocket,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Flipboard,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Wakelet,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Pearltrees,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Diigo,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Raindrop.io,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Instapaper,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Beacons,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Bio.site,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Ko-fi,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Buy Me a Coffee,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Patreon,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Gumroad,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.
+P3,"Bookmarks, creator pages and media",Bandcamp,"Low-quality, irrelevant or risky",Generic/bookmark/web2.0/irrelevant placement or requires content you do not have; skip unless genuinely used.

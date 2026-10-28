@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png",
+    "collected_at": "2026-10-28T22:46:03.331158+00:00",
+    "status": 200,
+    "location": "",
+    "content_type": "image/png",
+    "error": "",
+    "file": "reports/evidence/final/d95dde23e7834e87f482.body",
+    "x_robots_tag": "",
+    "cache_control": "public,max-age=0,must-revalidate"
+  },
+  {
+    "url": "https://mr-bakhtawar.netlify.app/__mbk_seo_nonexistent_page_check__",
+    "collected_at": "2026-10-28T22:46:03.331158+00:00",
+    "status": 404,
+    "location": "",
+    "content_type": "text/html; charset=utf-8",
+    "error": "",
+    "file": "reports/evidence/final/8328716e790602a45d4b.body",
+    "x_robots_tag": "",
+    "cache_control": "public,max-age=0,must-revalidate",
+    "page": {
+      "title": "Page Not Found | Mr. Bakhtawar",
+      "description": "Page Not Found | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Bakhtawar Khan and founder of MBK Global.",
+      "canonical": "https://mr-bakhtawar.netlify.app/404.html",
+      "robots": "noindex,follow",
+      "h1": [
+        "This page took a wrong turn."
+      ],
+      "h2": [],
+      "schemas": [
+        {
+          "@type": "WebSite",
+          "@id": "https://mr-bakhtawar.netlify.app/#website",
+          "url": "https://mr-bakhtawar.netlify.app/",
+          "name": "Mr. Bakhtawar Portfolio",
+          "description": "Official portfolio of Bakhtawar Khan (MBK), Founder of MBK Global, featuring digital projects, web development, AI, APIs and technical resources.",
+          "publisher": {
+            "@id": "https://mr-bakhtawar.netlify.app/#person"
+          },
+          "inLanguage": "en"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://mr-bakhtawar.netlify.app/#person",
+          "name": "Bakhtawar Khan",
+          "alternateName": [
+            "Mr. Bakhtawar",
+            "Bakhtawar MBK",
+            "MBK Bakhtawar",
+            "Bakhtawar Khan",
+            "Bakhtawar Khan",
+            "MBK"
+          ],
+          "url": "https://mr-bakhtawar.netlify.app/",
+          "image": "https://mr-bakhtawar.netlify.app/assets/images/gallery/muhammad-bakhtawar-khan-mbk-standing-professional-portrait.png",
+          "jobTitle": [
+            "Founder of MBK Global",
+            "Full-Stack Web Developer",
+            "Freelancer",
+            "Software Engineer",
+            "SEO Specialist"
+          ],
+          "worksFor": {
+            "@type": "Organization",
+            "@id": "https://mr-bakhtawar.netlify.app/#organization",
+            "name": "MBK Global",
+            "url": "https://mr-bakhtawar.netlify.app/"
+          },
+          "sameAs": [
+            "https://github.com/Muhammad-Bakhtawar-Khan",
+            "https://twitch.tv/mbk_bakhtawar"
+          ],
+          "description": "Bakhtawar Khan, known online as Mr. Bakhtawar, Bakhtawar MBK and MBK Bakhtawar, is a Karachi-based full-stack web developer, freelancer, software engineer and SEO specialist. He is the founder of MBK Global and shares practical web projects and technology work."
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://mr-bakhtawar.netlify.app/#organization",
+          "name": "MBK Global",
+          "url": "https://mr-bakhtawar.netlify.app/",
+          "founder": {
+            "@id": "https://mr-bakhtawar.netlify.app/#person"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://mr-bakhtawar.netlify.app/404.html#webpage",
+          "url": "https://mr-bakhtawar.netlify.app/404.html",
+          "name": "Page Not Found | Bakhtawar Khan (MBK)",
+          "description": "The requested page could not be found. Return to the official portfolio of Bakhtawar Khan (MBK).",
+          "isPartOf": {
+            "@id": "https://mr-bakhtawar.netlify.app/#website"
+          },
+          "about": {
+            "@id": "https://mr-bakhtawar.netlify.app/#person"
+          },
+          "inLanguage": "en"
+        }
+      ],
+      "schema_errors": [],
+      "links": [
+        "/",
+        "/",
+        "/about",
+        "/projects",
+        "/services",
+        "/hire-me",
+        "/case-studies",
+        "/changelog",
+        "/delivered-project",
+        "/resources",
+        "/news",
+        "/book-a-call",
+        "/resume",
+        "/hire-me",
+        "/gallery",
+        "/blog",
+        "/faq",
+        "/about-muhammad-bakhtawar-khan",
+        "/social",
+        "/official-links",
+        "#main-content",
+        "/",
+        "/resources",
+        "/",
+        "/projects",
+        "/contact",
+        "/",
+        "/resources",
+        "/official-links",
+        "/gallery",
+        "/resume",
+        "/faq",
+        "/privacy-policy",
+        "#top"
+      ],
+      "images": [],
+      "words": 28,
+      "main_text": "Home/Explore MBKdirectory / MBK GLOBALThis page took a wrong turn.ERROR / 404The link may be outdated or the page may have moved.Back to homepage \u2197Explore projects \u00b7 Contact",
+      "metadata_duplicates": [],
+      "meta": {
+        "robots": "noindex,follow",
+        "viewport": "width=device-width,initial-scale=1",
+        "description": "Page Not Found | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Bakhtawar Khan and founder of MBK Global.",
+        "author": "Mr. Bakhtawar (Bakhtawar Khan)",
+        "googlebot": "noindex,follow",
+        "referrer": "strict-origin-when-cross-origin",
+        "og:type": "website",
+        "og:url": "https://mr-bakhtawar.netlify.app/404.html",
+        "og:locale": "en_US",
+        "twitter:site": "@mbk_bakhtawar",
+        "og:site_name": "Mr. Bakhtawar Portfolio",
+        "og:image": "https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png",
+        "twitter:image": "https://mr-bakhtawar.netlify.app/assets/images/bakhtawar-portfolio-social-v1.png",
+        "og:image:alt": "Mr. Bakhtawar Portfolio \u2014 Bakhtawar Khan. Personal Digital Portfolio \u00b7 MBK Global.",
+        "twitter:image:alt": "Mr. Bakhtawar Portfolio \u2014 Bakhtawar Khan. Personal Digital Portfolio \u00b7 MBK Global.",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "og:image:type": "image/png",
+        "twitter:card": "summary_large_image",
+        "og:title": "Page Not Found | Mr. Bakhtawar",
+        "twitter:title": "Page Not Found | Mr. Bakhtawar",
+        "og:description": "Page Not Found | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Bakhtawar Khan and founder of MBK Global.",
+        "twitter:description": "Page Not Found | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Bakhtawar Khan and founder of MBK Global."
+      },
+      "refresh": ""
+    }
+  }
+]

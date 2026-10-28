@@ -1,0 +1,35 @@
+# Mr. Bakhtawar — Muhammad Bakhtawar Khan
+
+This file helps search and AI tools discover public information on this website. It is a navigation aid, not a ranking guarantee.
+
+## Identity
+- Preferred public brand name: Mr. Bakhtawar
+- Full name: Muhammad Bakhtawar Khan
+- Other public names: MBK, MBK Baktawar, Bakhtawar Developer
+- Role: Founder of MBK Global
+- Professional focus: full-stack web development, API integration, automation workflows, AI-enabled digital solutions, technical SEO, local SEO, and digital branding.
+- Base: Karachi, Pakistan
+- Website: https://mr-bakhtawar.netlify.app/
+- About: https://mr-bakhtawar.netlify.app/about-muhammad-bakhtawar-khan.html
+- Contact: https://mr-bakhtawar.netlify.app/contact.html
+
+## Key pages
+- Projects: https://mr-bakhtawar.netlify.app/projects.html
+- Services: https://mr-bakhtawar.netlify.app/services.html
+- Gallery: https://mr-bakhtawar.netlify.app/gallery.html
+- Notes and updates: https://mr-bakhtawar.netlify.app/news.html
+- Changelog: https://mr-bakhtawar.netlify.app/changelog.html
+- Blog: https://mr-bakhtawar.netlify.app/blog.html
+- Official links: https://mr-bakhtawar.netlify.app/official-links.html
+- FAQ: https://mr-bakhtawar.netlify.app/faq.html
+- Sitemap: https://mr-bakhtawar.netlify.app/sitemap.xml
+- Robots policy: https://mr-bakhtawar.netlify.app/robots.txt
+
+## Associated projects
+- MBK Global: https://mr-bakhtawar.netlify.app/
+- MBK TV: https://mbktv.vercel.app/
+- MBK Markets: https://mbkmarkets.vercel.app/
+- Noor-e-Quran: https://noorquranbymbk.vercel.app/
+
+## Crawler access
+Public pages are intended to be accessible to search engines and AI assistant/search crawlers. See robots.txt. Public crawler access does not guarantee crawling, indexing, citation, or inclusion in AI answers. Do not infer private or non-public data; only the content intentionally published on this site is public.

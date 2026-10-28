@@ -1,0 +1,9 @@
+Issue,Evidence,Local Resolution,Remaining Dependency,Status
+Homepage depends on JS for primary content,Initial HTML shell has no main H1/content,Build-time prerender of the existing App; hydration/browser tests passed,Production publication,Fixed locally; publication blocked
+Repeated JSON-LD graph definitions,Initial gallery/contact/projects/news/social graphs repeat definitions,One graph with consistent entity IDs and appropriate page types,Production publication,Fixed locally; publication blocked
+Truncated/inconsistent page metadata,Initial individual source records,54 unique complete titles/descriptions aligned with social metadata,Production publication,Fixed locally; publication blocked
+Incorrectly encoded image delivery paths,Four original JPEG payloads carry PNG/WebP suffixes,Active references use 70 correctly encoded responsive WebP copies; originals preserved,Production publication,Fixed locally; publication blocked
+Unverified quantitative project claims,Inherited cryptocurrency coverage text,Qualified visible claims; future numerical claims require evidence,Production publication,Fixed locally; publication blocked
+"10,000-keyword demand research",No GSC/Planner/paid dataset; limited observed suggestions,"191 transparent opportunities; 22 observed suggestions, metrics blank",Owner-provided attributable datasets,Blocked / explicit evidence request
+Reliable competitor comparison,Google/DDG challenges; irrelevant Bing results,No rankings/backlinks invented; blocked query groups recorded,Localized SERP / backlink export,Blocked / explicit evidence request
+Public profile control and original project results,Source-listed public matches only,No invented employment/awards/client results; evidence-gated briefs,Owner confirmation and original artifacts,Blocked / explicit evidence request

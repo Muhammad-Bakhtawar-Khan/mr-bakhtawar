@@ -1,0 +1,326 @@
+{
+  "/": {
+    "primary_keyword": "Mr Bakhtawar portfolio",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Homepage"
+  },
+  "/article-mbk-tv.html": {
+    "primary_keyword": "MBK TV Project",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/web-development.html": {
+    "primary_keyword": "Web Development",
+    "cluster": "Web development",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/article-mbk-markets.html": {
+    "primary_keyword": "MBK Markets project",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/technical-seo.html": {
+    "primary_keyword": "Technical SEO",
+    "cluster": "Search and identity",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/web-performance-and-ux-guide.html": {
+    "primary_keyword": "Web Performance and User Experience Guide",
+    "cluster": "Web development",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/ai-chatbot-development.html": {
+    "primary_keyword": "AI chatbot development",
+    "cluster": "AI APIs and automation",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/ai-chatbots-explained.html": {
+    "primary_keyword": "AI Chatbots Explained: How They Work and Where They Are Useful",
+    "cluster": "AI APIs and automation",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-api-integration.html": {
+    "primary_keyword": "API Integration Checklist for Web Projects",
+    "cluster": "AI APIs and automation",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/web-security-basics-for-small-sites.html": {
+    "primary_keyword": "Web Security Basics for Small Websites",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/whatsapp-business-chatbot-guide.html": {
+    "primary_keyword": "WhatsApp Chatbots for Businesses: Features, Use Cases, and Implementation",
+    "cluster": "AI APIs and automation",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/gallery.html": {
+    "primary_keyword": "Bakhtawar Khan photos",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/generative-search-entity-clarity.html": {
+    "primary_keyword": "personal brand entity clarity",
+    "cluster": "Search and identity",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/article-bakhtawar-khan.html": {
+    "primary_keyword": "Bakhtawar Khan learning and projects",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/telegram-bot-development.html": {
+    "primary_keyword": "Telegram bot development",
+    "cluster": "AI APIs and automation",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/services.html": {
+    "primary_keyword": "web development and digital services",
+    "cluster": "Personal brand",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/resources.html": {
+    "primary_keyword": "Web Resources",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/contact.html": {
+    "primary_keyword": "contact Bakhtawar Khan",
+    "cluster": "Personal brand",
+    "intent": "Commercial",
+    "page_type": "Profile / directory / contact"
+  },
+  "/deployment-and-maintenance-guide.html": {
+    "primary_keyword": "Deploying and Maintaining a Static Website",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/privacy-policy.html": {
+    "primary_keyword": "Privacy Policy",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/on-page-seo-guide.html": {
+    "primary_keyword": "On-Page SEO Guide for Small Websites",
+    "cluster": "Search and identity",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/seo-aeo-geo-for-personal-brands.html": {
+    "primary_keyword": "SEO AEO GEO for personal brands",
+    "cluster": "Search and identity",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-ai-automation.html": {
+    "primary_keyword": "AI automation workflow design",
+    "cluster": "AI APIs and automation",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/article-react-performance.html": {
+    "primary_keyword": "React performance checklist",
+    "cluster": "Web development",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/resume.html": {
+    "primary_keyword": "Resume & CV",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-mbk-global.html": {
+    "primary_keyword": "MBK Global: Digital Projects & Technology",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/social-media-automation.html": {
+    "primary_keyword": "Social media automation",
+    "cluster": "AI APIs and automation",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/about.html": {
+    "primary_keyword": "Bakhtawar Khan founder of MBK Global",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/projects.html": {
+    "primary_keyword": "Bakhtawar Khan projects",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Portfolio / process"
+  },
+  "/automation-and-ai-workflows-guide.html": {
+    "primary_keyword": "Automation and Responsible AI Workflows",
+    "cluster": "AI APIs and automation",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/changelog.html": {
+    "primary_keyword": "Website Changelog",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Portfolio / process"
+  },
+  "/delivered-project.html": {
+    "primary_keyword": "Project Process & Delivery",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Portfolio / process"
+  },
+  "/ai-api-integration.html": {
+    "primary_keyword": "AI & API Integration",
+    "cluster": "AI APIs and automation",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/whatsapp-chatbot-development.html": {
+    "primary_keyword": "WhatsApp chatbot development",
+    "cluster": "AI APIs and automation",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/news.html": {
+    "primary_keyword": "SEO, AEO & GEO Notes",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/react-api-interface-design.html": {
+    "primary_keyword": "Designing React Interfaces Around Real API States",
+    "cluster": "Web development",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/content-strategy-and-search-intent.html": {
+    "primary_keyword": "Content Strategy and Search Intent",
+    "cluster": "Search and identity",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/technical-seo-checklist-mbk.html": {
+    "primary_keyword": "Technical SEO Checklist for a Portfolio Website",
+    "cluster": "Search and identity",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/official-links.html": {
+    "primary_keyword": "Mr Bakhtawar official links",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-noor-e-quran.html": {
+    "primary_keyword": "Noor-e-Quran project",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/hire-me.html": {
+    "primary_keyword": "hire Bakhtawar Khan web developer",
+    "cluster": "Personal brand",
+    "intent": "Commercial",
+    "page_type": "Profile / directory / contact"
+  },
+  "/blog.html": {
+    "primary_keyword": "Articles & Guides",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/personal-branding-and-online-identity.html": {
+    "primary_keyword": "Personal Branding and Online Identity",
+    "cluster": "Search and identity",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/faq.html": {
+    "primary_keyword": "Bakhtawar Khan services FAQ",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/cybersecurity.html": {
+    "primary_keyword": "Web Security",
+    "cluster": "Personal brand",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/social.html": {
+    "primary_keyword": "Bakhtawar Khan social profiles",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-mbk-next-steps.html": {
+    "primary_keyword": "What Comes Next for the MBK Portfolio",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/telegram-bot-workflow-guide.html": {
+    "primary_keyword": "Telegram Bot Development: From Basic Commands to Automated Workflows",
+    "cluster": "AI APIs and automation",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/book-a-call.html": {
+    "primary_keyword": "Book a Call",
+    "cluster": "Personal brand",
+    "intent": "Commercial",
+    "page_type": "Profile / directory / contact"
+  },
+  "/case-studies.html": {
+    "primary_keyword": "Project Case Studies",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Portfolio / process"
+  },
+  "/digital-branding.html": {
+    "primary_keyword": "Digital Branding",
+    "cluster": "Search and identity",
+    "intent": "Commercial",
+    "page_type": "Service"
+  },
+  "/answer-engine-content-design.html": {
+    "primary_keyword": "Designing Answer-Ready Content for AEO",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  },
+  "/muhammad-bakhtawar-khan-digital-portfolio.html": {
+    "primary_keyword": "Bakhtawar Khan digital portfolio",
+    "cluster": "Personal brand",
+    "intent": "Navigational",
+    "page_type": "Profile / directory / contact"
+  },
+  "/article-mbk-tools.html": {
+    "primary_keyword": "MBK Downloader & Text to Handwriting",
+    "cluster": "Project learning",
+    "intent": "Informational",
+    "page_type": "Article / guide"
+  }
+}

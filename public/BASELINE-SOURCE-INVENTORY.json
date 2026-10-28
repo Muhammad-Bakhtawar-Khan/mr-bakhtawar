@@ -1,0 +1,1342 @@
+{
+  "404.html": {
+    "title": "Page Not Found | Mr. Bakhtawar",
+    "description": "Page Not Found | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Muhammad Bakhtawar Khan and founder of MBK Global.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/404.html",
+    "ids": []
+  },
+  "about-muhammad-bakhtawar-khan.html": {
+    "title": "About Mr. Bakhtawar | Muhammad Bakhtawar Khan",
+    "description": "Get to know Mr. Bakhtawar, also known as Bakhtawar MBK or MBK Bakhtawar: Muhammad Bakhtawar Khan, founder of MBK Global in Karachi.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/about-muhammad-bakhtawar-khan.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-founder-faq-refinement",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "founder-faq",
+      "founder-faq",
+      "mbk-directory-heading",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "about.html": {
+    "title": "About Mr. Bakhtawar | Founder of MBK Global",
+    "description": "Get to know Mr. Bakhtawar, also known as Bakhtawar MBK or MBK Bakhtawar: Muhammad Bakhtawar Khan, founder of MBK Global in Karachi.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/about.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-global-detail",
+      "profile-links",
+      "mbk-directory-heading",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "ai-api-integration.html": {
+    "title": "AI & API Integration | Mr. Bakhtawar",
+    "description": "AI & API Integration from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and contact options.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/ai-api-integration.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "answer-engine-content-design.html": {
+    "title": "Designing Answer-Ready Content for AEO | Mr. Bakhtawar",
+    "description": "Designing Answer-Ready Content for AEO: How to create clear, trustworthy answers without stuffing the name Muhammad Bakhtawar Khan or the MBK Global brand.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/answer-engine-content-design.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "api-integration-for-modern-web-projects.html": {
+    "title": "API Integration for Modern Web Projects | Mr. Bakhtawar",
+    "description": "API Integration for Modern Web Projects: An introduction to planning API integrations, error handling, security and documentation for web projects.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/api-integration-for-modern-web-projects.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-ai-automation.html": {
+    "title": "AI Automation: Design the Workflow Before the Pr | Mr. Bakhtawar",
+    "description": "AI Automation: Design the Workflow Before the Prompt: Reliable automation starts with a well-defined process, not just a clever prompt. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-ai-automation.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-api-integration.html": {
+    "title": "API Integration Checklist for Web Projects | Mr. Bakhtawar",
+    "description": "API Integration Checklist for Web Projects: A successful API connection is more than a request that returns JSON once. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-api-integration.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-bakhtawar-khan.html": {
+    "title": "Muhammad Bakhtawar Khan (MBK) | Mr. Bakhtawar",
+    "description": "Get to know Mr. Bakhtawar, also known as Bakhtawar MBK or MBK Bakhtawar: Muhammad Bakhtawar Khan, founder of MBK Global in Karachi.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-bakhtawar-khan.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "about-mbk",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-mbk-global.html": {
+    "title": "MBK Global: Digital Projects & Technology | Mr. Bakhtawar",
+    "description": "MBK Global: Digital Projects & Technology: A brand direction that brings web experiences, design thinking and technology experiments under one identity. By.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-mbk-global.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-global",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-mbk-markets.html": {
+    "title": "MBK Markets Project | Market Data Interface by M | Mr. Bakhtawar",
+    "description": "MBK Markets Project | Market Data Interface by MBK: A cryptocurrency market dashboard built to bring a broad coin catalogue, live market information and.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-mbk-markets.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-markets",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-mbk-next-steps.html": {
+    "title": "What Comes Next for the MBK Portfolio | Mr. Bakhtawar",
+    "description": "What Comes Next for the MBK Portfolio: A professional portfolio grows through accurate details, regular maintenance and real evidence of work. By Mr. Bakhtawar.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-mbk-next-steps.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "next-steps",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-mbk-tools.html": {
+    "title": "MBK Downloader & Text to Handwriting | Mr. Bakhtawar",
+    "description": "MBK Downloader & Text to Handwriting: A multi-platform video downloader that turns a supported video link into a simple, focused download workflow. By Mr.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-mbk-tools.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "tools",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-mbk-tv.html": {
+    "title": "MBK TV Project | Digital Media Experience by MBK | Mr. Bakhtawar",
+    "description": "MBK TV Project | Digital Media Experience by MBK: An online TV experience for discovering and watching available live channels and streaming content in one.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-mbk-tv.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-tv",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-noor-e-quran.html": {
+    "title": "Noor-e-Quran Project | Digital Learning Experien | Mr. Bakhtawar",
+    "description": "Noor-e-Quran Project | Digital Learning Experience by MBK: A digital Quran-reading website designed to make reading Quran content straightforward and.",
+    "h1": 0,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-noor-e-quran.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "noor-e-quran",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-react-performance.html": {
+    "title": "React Performance: A Practical Optimization Chec | Mr. Bakhtawar",
+    "description": "React Performance: A Practical Optimization Checklist: Fast interfaces begin with measurement, not random code changes. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-react-performance.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "article-technical-seo.html": {
+    "title": "Technical SEO Checklist for Portfolio Websites | Mr. Bakhtawar",
+    "description": "Technical SEO Checklist for Portfolio Websites: Search visibility starts with pages that are accessible, understandable and worth finding. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/article-technical-seo.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-ai-workflows.html": {
+    "title": "Responsible AI Workflows | Mr. Bakhtawar",
+    "description": "Responsible AI Workflows: Ways to use AI assistance while reviewing outputs, protecting data and keeping human oversight. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-ai-workflows.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-api-security.html": {
+    "title": "API Integration and Security Basics | Mr. Bakhtawar",
+    "description": "API Integration and Security Basics: How to handle API keys, validate responses, document errors and protect credentials. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-api-security.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-automation-basics.html": {
+    "title": "Automation Basics for Everyday Work | Mr. Bakhtawar",
+    "description": "Automation Basics for Everyday Work: Map repetitive tasks, define failure paths and monitor automations before relying on them. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-automation-basics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-canonical-urls.html": {
+    "title": "Canonical URLs Explained | Mr. Bakhtawar",
+    "description": "Canonical URLs Explained: When canonical tags help clarify preferred URLs and how to avoid conflicting signals. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-canonical-urls.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-cloud-computing-basics.html": {
+    "title": "Cloud Computing Basics for Builders | Mr. Bakhtawar",
+    "description": "Cloud Computing Basics for Builders: A beginner-friendly overview of hosting, deployments, storage and operational responsibility. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-cloud-computing-basics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-community-feedback.html": {
+    "title": "Using Community Feedback Well | Mr. Bakhtawar",
+    "description": "Using Community Feedback Well: Collect consent-based feedback, protect privacy and distinguish real testimonials from examples. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-community-feedback.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-content-planning.html": {
+    "title": "Planning a Sustainable Blog | Mr. Bakhtawar",
+    "description": "Planning a Sustainable Blog: Build a realistic editorial calendar around questions your audience actually asks. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-content-planning.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-content-quality.html": {
+    "title": "Writing Useful Website Content | Mr. Bakhtawar",
+    "description": "Writing Useful Website Content: Create original, accurate content for people instead of publishing repetitive pages for search engines. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-content-quality.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-cybersecurity-learning.html": {
+    "title": "Learning Cybersecurity Responsibly | Mr. Bakhtawar",
+    "description": "Learning Cybersecurity Responsibly: A safe learning roadmap covering fundamentals, labs, authorization and responsible disclosure. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-cybersecurity-learning.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-data-validation.html": {
+    "title": "Why Data Validation Matters | Mr. Bakhtawar",
+    "description": "Why Data Validation Matters: Validate inputs at boundaries and provide understandable errors to reduce downstream failures. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-data-validation.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-developer-documentation.html": {
+    "title": "Writing Better Project Documentation | Mr. Bakhtawar",
+    "description": "Writing Better Project Documentation: Explain purpose, setup, limitations and usage so other people can understand a project. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-developer-documentation.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-digital-identity.html": {
+    "title": "Managing a Digital Identity | Mr. Bakhtawar",
+    "description": "Managing a Digital Identity: Keep names, descriptions, profile links and project information consistent across public channels. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-digital-identity.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-digital-rights.html": {
+    "title": "Digital Rights and Responsible Technology | Mr. Bakhtawar",
+    "description": "Digital Rights and Responsible Technology: Explore privacy, accessibility, expression and the responsibility to design inclusive digital experiences. By Mr.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-digital-rights.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-domain-ssl-basics.html": {
+    "title": "Domains, DNS and SSL Explained | Mr. Bakhtawar",
+    "description": "Domains, DNS and SSL Explained: The role of domain records, HTTPS certificates and correct redirects in website launches. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-domain-ssl-basics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-faq-content.html": {
+    "title": "Creating Helpful FAQ Pages | Mr. Bakhtawar",
+    "description": "Creating Helpful FAQ Pages: Answer real questions clearly and keep FAQ content relevant, accurate and easy to scan. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-faq-content.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-github-workflow.html": {
+    "title": "A Practical GitHub Workflow | Mr. Bakhtawar",
+    "description": "A Practical GitHub Workflow: How commits, branches, pull requests and clear README files support reliable project work. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-github-workflow.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-google-indexing.html": {
+    "title": "Understanding Search Indexing | Mr. Bakhtawar",
+    "description": "Understanding Search Indexing: The difference between crawling, indexing and ranking, plus ways to troubleshoot a page. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-google-indexing.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-image-seo.html": {
+    "title": "Image SEO: Alt Text and Performance | Mr. Bakhtawar",
+    "description": "Image SEO: Alt Text and Performance: How descriptive filenames, accurate alt text, dimensions and compression improve image usability. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-image-seo.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-internal-linking.html": {
+    "title": "Internal Linking for Helpful Websites | Mr. Bakhtawar",
+    "description": "Internal Linking for Helpful Websites: How contextual links help readers discover related pages without repetitive keyword stuffing. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-internal-linking.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-keyword-research.html": {
+    "title": "Keyword Research Without Stuffing | Mr. Bakhtawar",
+    "description": "Keyword Research Without Stuffing: Group related search phrases by meaning and create a focused page for each genuine topic. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-keyword-research.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-local-seo-basics.html": {
+    "title": "Local SEO Basics for Digital Services | Mr. Bakhtawar",
+    "description": "Local SEO Basics for Digital Services: Keep business details accurate and build useful service pages without fake locations or claims. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-local-seo-basics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-meta-descriptions.html": {
+    "title": "Meta Descriptions That Help Searchers | Mr. Bakhtawar",
+    "description": "Meta Descriptions That Help Searchers: How to write page-specific summaries that set accurate expectations for visitors. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-meta-descriptions.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-n8n-workflows.html": {
+    "title": "Planning Reliable n8n Workflows | Mr. Bakhtawar",
+    "description": "Planning Reliable n8n Workflows: Use clear triggers, validation, retries, logging and safe credential handling in workflows. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-n8n-workflows.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-online-reputation.html": {
+    "title": "Building a Trustworthy Online Reputation | Mr. Bakhtawar",
+    "description": "Building a Trustworthy Online Reputation: Use authentic work examples, clear contact details and honest descriptions to build credibility. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-online-reputation.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-personal-branding.html": {
+    "title": "Building a Consistent Personal Brand Online | Mr. Bakhtawar",
+    "description": "Building a Consistent Personal Brand Online: A practical guide to aligning a portfolio, social profiles and public project descriptions. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-personal-branding.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-portfolio-seo.html": {
+    "title": "Portfolio SEO for Developers | Mr. Bakhtawar",
+    "description": "Portfolio SEO for Developers: How useful page titles, original copy, canonical URLs and internal links help a developer portfolio. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-portfolio-seo.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-privacy-by-design.html": {
+    "title": "Privacy by Design for Small Projects | Mr. Bakhtawar",
+    "description": "Privacy by Design for Small Projects: Build trust by minimizing collection, explaining data use and protecting stored information. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-privacy-by-design.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-product-thinking.html": {
+    "title": "Product Thinking for Small Web Tools | Mr. Bakhtawar",
+    "description": "Product Thinking for Small Web Tools: Start with a specific user need, test the smallest useful feature and improve from evidence. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-product-thinking.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-responsive-design.html": {
+    "title": "Responsive Website Design Principles | Mr. Bakhtawar",
+    "description": "Responsive Website Design Principles: How flexible layouts and mobile-first testing support visitors across screen sizes. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-responsive-design.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-reverse-engineering-ethics.html": {
+    "title": "Ethical Code Analysis and Reverse Engineering | Mr. Bakhtawar",
+    "description": "Ethical Code Analysis and Reverse Engineering: Why permission, scope and lawful testing matter when examining software behavior. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-reverse-engineering-ethics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-robots-txt.html": {
+    "title": "Robots.txt: Common Mistakes | Mr. Bakhtawar",
+    "description": "Robots.txt: Common Mistakes: Understand crawl directives and why robots.txt is not a privacy or deindexing mechanism. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-robots-txt.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-search-intent.html": {
+    "title": "Understanding Search Intent | Mr. Bakhtawar",
+    "description": "Understanding Search Intent: Match a page to the question it answers instead of targeting unrelated keyword variations. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-search-intent.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-seo-title-tags.html": {
+    "title": "Writing Useful SEO Title Tags | Mr. Bakhtawar",
+    "description": "Writing Useful SEO Title Tags: Create clear titles that describe each page naturally without repeating keywords excessively. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-seo-title-tags.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-social-profile-links.html": {
+    "title": "Connecting Social Profiles to a Portfolio | Mr. Bakhtawar",
+    "description": "Connecting Social Profiles to a Portfolio: Help visitors find official profiles through clear, maintained links and descriptive labels. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-social-profile-links.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-structured-data.html": {
+    "title": "Structured Data for Personal Websites | Mr. Bakhtawar",
+    "description": "Structured Data for Personal Websites: An introduction to accurate Person, WebSite, Article and Breadcrumb structured data. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-structured-data.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-technical-seo-checklist.html": {
+    "title": "A Technical SEO Checklist | Mr. Bakhtawar",
+    "description": "A Technical SEO Checklist: A repeatable checklist for crawlability, metadata, sitemap health, page speed and indexation. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-technical-seo-checklist.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-testimonial-ethics.html": {
+    "title": "Ethical Use of Testimonials | Mr. Bakhtawar",
+    "description": "Ethical Use of Testimonials: Publish only genuine reviews with permission; never invent customer identities or ratings. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-testimonial-ethics.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-user-experience.html": {
+    "title": "User Experience for Utility Websites | Mr. Bakhtawar",
+    "description": "User Experience for Utility Websites: Reduce friction with clear hierarchy, predictable navigation and useful empty states. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-user-experience.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-vercel-deployment.html": {
+    "title": "Deploying Static Sites with Vercel | Mr. Bakhtawar",
+    "description": "Deploying Static Sites with Vercel: A deployment checklist for builds, environment variables, domains and preview testing. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-vercel-deployment.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-web-accessibility.html": {
+    "title": "Accessible Web Design Basics | Mr. Bakhtawar",
+    "description": "Accessible Web Design Basics: Practical accessibility habits including semantic HTML, contrast, keyboard navigation and meaningful alt text. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-web-accessibility.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-web-forms.html": {
+    "title": "Building Better Website Forms | Mr. Bakhtawar",
+    "description": "Building Better Website Forms: Accessible labels, validation, helpful errors and privacy-conscious form handling. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-web-forms.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-web-performance.html": {
+    "title": "Website Performance Fundamentals | Mr. Bakhtawar",
+    "description": "Website Performance Fundamentals: How to audit image sizes, scripts, caching and layout stability. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-web-performance.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-website-launch.html": {
+    "title": "A Website Launch Checklist | Mr. Bakhtawar",
+    "description": "A Website Launch Checklist: Review mobile layouts, links, forms, metadata, analytics, HTTPS and backups before launch. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-website-launch.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-website-maintenance.html": {
+    "title": "Maintaining a Website After Launch | Mr. Bakhtawar",
+    "description": "Maintaining a Website After Launch: Keep dependencies, links, backups, security settings and content fresh through routine checks. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-website-maintenance.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog-xml-sitemaps.html": {
+    "title": "XML Sitemaps for Small Websites | Mr. Bakhtawar",
+    "description": "XML Sitemaps for Small Websites: What a sitemap should include and why it should list canonical, indexable URLs. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog-xml-sitemaps.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "blog.html": {
+    "title": "Articles & Guides | Mr. Bakhtawar",
+    "description": "Articles & Guides by Muhammad Bakhtawar Khan (MBK): A personal journal about the person behind the projects, the ideas behind each platform and the lessons.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/blog.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "about-mbk",
+      "mbk-global",
+      "mbk-tv",
+      "mbk-markets",
+      "tools",
+      "noor-e-quran",
+      "next-steps",
+      "article-react-performance",
+      "article-api-integration",
+      "article-ai-automation",
+      "article-technical-seo",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "book-a-call.html": {
+    "title": "Book a Call | Mr. Bakhtawar",
+    "description": "Book a Call from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/book-a-call.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-book-call-dark-form-refinement",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "top",
+      "primary-navigation",
+      "call-request",
+      "name",
+      "email",
+      "phone",
+      "topic",
+      "budget",
+      "time",
+      "details",
+      "confirm",
+      "form-note",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "case-studies.html": {
+    "title": "Project Case Studies | Mr. Bakhtawar",
+    "description": "Explore web projects and practical work by Mr. Bakhtawar, founder of MBK Global, including digital experiences, development experiments and technology builds.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/case-studies.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "case-title",
+      "case-grid",
+      "case-grid-title",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "changelog.html": {
+    "title": "Website Changelog | Mr. Bakhtawar",
+    "description": "Website Changelog from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/changelog.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "contact.html": {
+    "title": "Contact Mr. Bakhtawar | MBK Global",
+    "description": "Contact Muhammad Bakhtawar Khan (MBK) from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/contact.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "project-enquiry",
+      "whatsappProjectForm",
+      "formSuccess",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "cybersecurity.html": {
+    "title": "Web Security | Mr. Bakhtawar",
+    "description": "Web Security Practices & Review from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/cybersecurity.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "delivered-project.html": {
+    "title": "Project Process & Delivery | Mr. Bakhtawar",
+    "description": "Project Process & Delivery from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/delivered-project.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "digital-branding.html": {
+    "title": "Digital Branding | Mr. Bakhtawar",
+    "description": "Digital Branding & Portfolio Presence from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/digital-branding.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "faq.html": {
+    "title": "Frequently Asked Questions | Mr. Bakhtawar",
+    "description": "FAQs: A practical guide to projects, services, timelines and working together. Find what you need, then let's make your next idea happen. By Mr. Bakhtawar.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/faq.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "faq-title",
+      "faqSearch",
+      "faqResults",
+      "faqList",
+      "faqEmpty",
+      "faqReset",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "gallery.html": {
+    "title": "Mr. Bakhtawar | Photos & Personal Gallery",
+    "description": "Explore photos and personal moments from Mr. Bakhtawar (Muhammad Bakhtawar Khan), the person behind MBK Global and its digital projects.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/gallery.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "generative-search-entity-clarity.html": {
+    "title": "Entity Clarity for Generative Search: Person, Br | Mr. Bakhtawar",
+    "description": "Entity Clarity for Generative Search: Person, Brand and Projects: A practical explanation of separating Muhammad Bakhtawar Khan, MBK Global and associated.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/generative-search-entity-clarity.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "google194f46fe9461fc27.html": {
+    "title": "",
+    "description": "",
+    "h1": 0,
+    "canonical": "",
+    "ids": []
+  },
+  "hire-me.html": {
+    "title": "Hire Mr. Bakhtawar | Web Development & SEO",
+    "description": "Hire Muhammad Bakhtawar Khan (MBK) | Web, API & Automation from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/hire-me.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "hire-title",
+      "hire-services-title",
+      "hire-process-title",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "index.html": {
+    "title": "Mr. Bakhtawar | Founder of MBK Global",
+    "description": "Meet Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Explore his web development work, digital projects, API integrations and SEO.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "mbk-human-editorial-redesign-v1",
+      "top",
+      "primary-navigation",
+      "mbk-portrait-gallery-title",
+      "mbk-vision-title",
+      "about-mbk-heading",
+      "human-rights-home",
+      "review-heading",
+      "review-prev",
+      "review-next",
+      "review-carousel",
+      "identity-authority-section",
+      "bakhtawar-photo-gallery",
+      "mbk-photo-gallery-title",
+      "mbk-directory-heading",
+      "home-photo-gallery",
+      "home-photo-gallery-title",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "muhammad-bakhtawar-khan-digital-portfolio.html": {
+    "title": "Muhammad Bakhtawar Khan | Mr. Bakhtawar",
+    "description": "Get to know Mr. Bakhtawar, also known as Bakhtawar MBK or MBK Bakhtawar: Muhammad Bakhtawar Khan, founder of MBK Global in Karachi.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/muhammad-bakhtawar-khan-digital-portfolio.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "news.html": {
+    "title": "SEO, AEO & GEO Notes | Mr. Bakhtawar",
+    "description": "40 SEO, AEO & GEO Notes and Updates from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/news.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "expanded-notes-title",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "official-links.html": {
+    "title": "Mr. Bakhtawar | Official Links & Projects",
+    "description": "Find the official website, portfolio, projects and social profiles for Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/official-links.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-directory-heading",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "privacy-policy.html": {
+    "title": "Privacy Policy | Mr. Bakhtawar",
+    "description": "Privacy Policy from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/privacy-policy.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "projects.html": {
+    "title": "Mr. Bakhtawar | Web Projects & Portfolio",
+    "description": "Explore web projects and practical work by Mr. Bakhtawar, founder of MBK Global, including digital experiences, development experiments and technology builds.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/projects.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "resources.html": {
+    "title": "Web Resources | Mr. Bakhtawar",
+    "description": "Web Development, API, SEO & Accessibility Resources: A growing library of practical references for building and maintaining digital projects. Start with.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/resources.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-directory-heading",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "resume.html": {
+    "title": "Resume & CV | Mr. Bakhtawar",
+    "description": "Resume / CV from Mr. Bakhtawar, founder of MBK Global. Explore relevant information, project details and ways to get in touch.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/resume.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "seo-aeo-geo-for-personal-brands.html": {
+    "title": "SEO, AEO and GEO for a Personal Brand: The MBK A | Mr. Bakhtawar",
+    "description": "SEO, AEO and GEO for a Personal Brand: The MBK Approach: How Muhammad Bakhtawar Khan (MBK) approaches clear identity information, useful content and.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/seo-aeo-geo-for-personal-brands.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "services.html": {
+    "title": "Mr. Bakhtawar | Web Development & SEO Services",
+    "description": "Web Development, AI, APIs & SEO Services from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/services.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "design",
+      "development",
+      "automation",
+      "growth",
+      "technical",
+      "mbk-service-approach",
+      "mbk-approach-title",
+      "service-pages-heading",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "social.html": {
+    "title": "Official Social Profiles | Mr. Bakhtawar",
+    "description": "Find the official website, portfolio, projects and social profiles for Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/social.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "technical-seo-checklist-mbk.html": {
+    "title": "Technical SEO Checklist for a Portfolio Website | Mr. Bakhtawar",
+    "description": "Technical SEO Checklist for a Portfolio Website: A practical checklist from Muhammad Bakhtawar Khan (MBK) covering indexing, canonicals, metadata, internal.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/technical-seo-checklist-mbk.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "technical-seo.html": {
+    "title": "Technical SEO | Mr. Bakhtawar",
+    "description": "Technical SEO & Search Visibility from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/technical-seo.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "thank-you.html": {
+    "title": "Thank You | Mr. Bakhtawar",
+    "description": "Thank You | Mr. Bakhtawar. Official website of Mr. Bakhtawar, Muhammad Bakhtawar Khan and founder of MBK Global.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/thank-you.html",
+    "ids": []
+  },
+  "web-development.html": {
+    "title": "Web Development | Mr. Bakhtawar",
+    "description": "Web Development Services from Mr. Bakhtawar (Muhammad Bakhtawar Khan), founder of MBK Global in Karachi. Review the approach, relevant work and contact options.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/web-development.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "top",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  },
+  "web-security-basics-for-small-sites.html": {
+    "title": "Web Security Basics for Small Websites | Mr. Bakhtawar",
+    "description": "Web Security Basics for Small Websites: Foundational web security practices relevant to the web development and cybersecurity interests of Muhammad.",
+    "h1": 1,
+    "canonical": "https://mr-bakhtawar.netlify.app/web-security-basics-for-small-sites.html",
+    "ids": [
+      "mbk-internal-link-upgrade-css",
+      "mbk-editorial-upgrade-v3",
+      "primary-navigation",
+      "main-content",
+      "mbk-portfolio-cta-title",
+      "year"
+    ]
+  }
+}
